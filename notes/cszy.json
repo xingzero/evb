@@ -517,15 +517,15 @@
             "name": "金牌(SP)",
             "type": 3,
             "api": "csp_AppMuou",
-            "ext": "https://muouapp.oss-cn-hangzhou.aliyuncs.com/MUOUAPP/godbbq.txt|金牌影院",
+            "ext": "https://muouht.ggtvb.cc|金牌影院",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/master/notes/jar/PandaQ251016.png;md5;965c0ecb144c99c35f39e4a036712a3a"
         },
         {
-            "key": "余白",
-            "name": "余白(SP)",
+            "key": "新橘子",
+            "name": "新橘子(SP)",
             "type": 3,
-            "api": "csp_AppGet",
-            "ext": "https://app.yb4k.top|pk5CemuwgQ4gh8dl",
+            "api": "csp_AppMuou",
+            "ext": "http://app.tpmbt.cn|新橘子影视",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/master/notes/jar/PandaQ251016.png;md5;965c0ecb144c99c35f39e4a036712a3a"
         },
         {
@@ -641,22 +641,6 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/master/notes/jar/PandaQ251016.png;md5;965c0ecb144c99c35f39e4a036712a3a"
         },
         {
-            "key": "豆丁",
-            "name": "豆丁(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "http://45.66.157.77:9427|Xasdasd!123123dd",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/master/notes/jar/PandaQ251016.png;md5;965c0ecb144c99c35f39e4a036712a3a"
-        },
-        {
-            "key": "布雷",
-            "name": "布雷(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "https://cms.bl4k.cc|B7uaxcwdpX2dww82",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/master/notes/jar/PandaQ251016.png;md5;965c0ecb144c99c35f39e4a036712a3a"
-        },
-        {
             "key": "五八",
             "name": "五八(SP)",
             "type": 3,
@@ -670,14 +654,6 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "https://www.zjkrmv.vip|vXeyuJFqTKqWUtWU",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/master/notes/jar/PandaQ251016.png;md5;965c0ecb144c99c35f39e4a036712a3a"
-        },
-        {
-            "key": "外剧",
-            "name": "外剧(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "https://guowaiju.com|7xv16h7qgkrs9b1p",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/master/notes/jar/PandaQ251016.png;md5;965c0ecb144c99c35f39e4a036712a3a"
         },
         {
@@ -697,14 +673,6 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/master/notes/jar/PandaQ251016.png;md5;965c0ecb144c99c35f39e4a036712a3a"
         },
         {
-            "key": "米兔",
-            "name": "米兔(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "https://new.tkbot.fun|d032c12876bc6848|200",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/master/notes/jar/PandaQ251016.png;md5;965c0ecb144c99c35f39e4a036712a3a"
-        },
-        {
             "key": "魔方(SP)",
             "name": "魔方(SP)",
             "type": 3,
@@ -718,14 +686,6 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "https://app.xifanys.com|HM6Ly9yeS4ya3dvL",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/master/notes/jar/PandaQ251016.png;md5;965c0ecb144c99c35f39e4a036712a3a"
-        },
-        {
-            "key": "追番",
-            "name": "追番(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "https://fox.ystva.com|A1akVPQmnnE4Fz9Z",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/master/notes/jar/PandaQ251016.png;md5;965c0ecb144c99c35f39e4a036712a3a"
         },
         {
@@ -814,6 +774,14 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "https://get.mymifun.com|GETMIFUNGEIMIFUN",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/master/notes/jar/PandaQ251016.png;md5;965c0ecb144c99c35f39e4a036712a3a"
+        },
+        {
+            "key": "囧次元(SP)",
+            "name": "囧次元(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "http://ys.xiaos12.cn|chfgjfrhhf628vw1",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/master/notes/jar/PandaQ251016.png;md5;965c0ecb144c99c35f39e4a036712a3a"
         },
         {
@@ -1190,6 +1158,17 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/master/notes/py/AppV2.py",
             "ext": {
                 "api": "http://dmmax.kuailezhuiju2.com/icciu_api.php/v1.vod",
+                "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
+                "apisignkey": "lvdoutv-1.0.0"
+            }
+        },
+        {
+            "key": "下饭(py)",
+            "name": "下饭(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/master/notes/py/AppV2.py",
+            "ext": {
+                "api": "http://yjyi.juyongjiu.com:80/icciu_api.php/v1.vod",
                 "datasignkey": "6QQNUsP3PkD2ajJCPCY8",
                 "apisignkey": "lvdoutv-1.0.0"
             }
@@ -3963,9 +3942,14 @@
             "url": "http://ok.zoho.to/z/cao"
         },
         {
-            "name": "great",
+            "name": "mayi",
             "type": 0,
-            "url": "http://is.is-great.org/i/5621500.txt"
+            "url": "http://xo.html-5.me//i/9918352.txt"
+        },
+        {
+            "name": "zb",
+            "type": 0,
+            "url": "http://47.120.41.246:8899/zb.txt"
         },
         {
             "name": "aptv",
