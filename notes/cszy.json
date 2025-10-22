@@ -1692,7 +1692,7 @@
             "api": "csp_XBPQ",
             "ext": {
                 "分类url": "https://feikuai.tv/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
-                "分类": "": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$32"
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$32"
             },
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
