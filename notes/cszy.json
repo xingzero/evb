@@ -1772,6 +1772,7 @@
             "name": "看看虎(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
+            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
             "ext": {
                 "分类url": "https://www.kankanhu.cc/show/{cateId}--------{catePg}---.html",
                 "分类": "电影$1#剧集$2#综艺$3#动漫$4"
@@ -1780,9 +1781,10 @@
         },
         {
             "key": "XBPQ_JQQZX",
-            "name": "剧圈圈(XBPQ)",
+            "name": "剧圈圈2(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
+            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
             "ext": {
                 "分类url": "https://www.jqqzx.top/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
                 "分类": "电影$dianying#剧集$juji#综艺$zongyi#动漫$dongman#纪录片$jilupian#爽剧$shuangju"
