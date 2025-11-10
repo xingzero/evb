@@ -290,7 +290,7 @@
             "name": "每日(xml)",
             "type": 1,
             "api": "https://mrgj.cc/api.php/provide/vod/",
-            "playUrl": "json:https://bfq.52gangju.cn/?url=",
+            "playUrl": "json:https://bfq.52gangju.cn/?url="
         },
         {
             "key": "csp_Tvyb",
