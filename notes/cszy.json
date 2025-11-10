@@ -289,7 +289,7 @@
             "key": "每日",
             "name": "每日(xml)",
             "type": 1,
-            "api": "https://mrgj.cc/api.php/provide/vod/"
+            "api": "https://.cc/api.php/provide/vod/"
         },
         {
             "key": "csp_Tvyb",
@@ -2970,7 +2970,7 @@
             "ext": {
                 "flag": [
                     "mrgjqp"
-                ],
+                ]
             }
         },
         {
