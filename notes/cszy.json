@@ -527,6 +527,14 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251106.png;md5;cc5ae3a5f652c14398978c1e3c73cba0"
         },
         {
+            "key": "坚果",
+            "name": "坚果(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "http://140.143.100.54|2015692015692015",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251016.png;md5;965c0ecb144c99c35f39e4a036712a3a"
+        },
+        {
             "key": "星空",
             "name": "星空(SP)",
             "type": 3,
@@ -637,6 +645,14 @@
             "api": "csp_AppGet",
             "ext": "http://www.drdm.fun|qE2nD0rL1lH4uP9r",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251106.png;md5;cc5ae3a5f652c14398978c1e3c73cba0"
+        },
+        {
+            "key": "漫屋",
+            "name": "漫屋(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://www.yunwuee.icu|ygcnb9bdcmb8aeiw",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251016.png;md5;965c0ecb144c99c35f39e4a036712a3a"
         },
         {
             "key": "方舟",
@@ -2949,11 +2965,12 @@
         },
         {
             "name": "mrgj",
-            "type": 1,
+            "type": 0,
             "url": "https://bfq.52gangju.cn/?url=",
             "ext": {
                 "flag": [
-                    "mrgjqp"
+                    "mrgjqp",
+                    "mrgjqp2"
                 ]
             }
         },
