@@ -289,8 +289,7 @@
             "key": "每日",
             "name": "每日(xml)",
             "type": 1,
-            "api": "https://mrgj.cc/api.php/provide/vod/",
-            "playUrl": "json:https://bfq.52gangju.cn/?url="
+            "api": "https://mrgj.cc/api.php/provide/vod/"
         },
         {
             "key": "csp_Tvyb",
@@ -2963,6 +2962,16 @@
             "name": "免费",
             "type": 1,
             "url": "https://mfjx.iwsyy.xyz/?url="
+        },
+        {
+            "name": "mrgj",
+            "type": 1,
+            "url": "https://bfq.52gangju.cn/?url=",
+            "ext": {
+                "flag": [
+                    "mrgjqp"
+                ],
+            }
         },
         {
             "name": "巧技",
