@@ -340,6 +340,22 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251118.jpg;md5;31857bf0273d28fe583978d9f693e571"
         },
         {
+            "key": "粤漫G",
+            "name": "粤漫G(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://www.yuemanzhijia.top|AVSI6788^765idue",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251118.jpg;md5;31857bf0273d28fe583978d9f693e571"
+        },
+        {
+            "key": "粤漫Q",
+            "name": "粤漫Q(SP)",
+            "type": 3,
+            "api": "csp_AppQi",
+            "ext": "https://www.yuemanzhijia.top|AVSI6788^765idue",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251118.jpg;md5;31857bf0273d28fe583978d9f693e571"
+        },
+        {
             "key": "灵虎",
             "name": "灵虎(SP)",
             "type": 3,
