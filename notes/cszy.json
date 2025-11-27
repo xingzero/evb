@@ -1752,6 +1752,30 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/坚果视频.py"
         },
         {
+            "key": "FeiApp",
+            "name": "FeiApp(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/FeiApp.py"
+        },
+        {
+            "key": "XinJie",
+            "name": "XinJie(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/XinJie.py"
+        },
+        {
+            "key": "yqkapp",
+            "name": "yqkapp(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/yqkapp.py"
+        },
+        {
+            "key": "attapp",
+            "name": "attapp(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/attapp.py"
+        },
+        {
             "key": "csp_py_荐片",
             "name": "荐片(py)",
             "type": 3,
