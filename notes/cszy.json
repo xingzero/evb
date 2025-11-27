@@ -1710,6 +1710,48 @@
             }
         },
         {
+            "key": "山有木兮",
+            "name": "山有木兮(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/web/山有木兮.py"
+        },
+        {
+            "key": "4K影视",
+            "name": "4K影视(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/4K影视.py"
+        },
+        {
+            "key": "懒懒",
+            "name": "懒懒(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/懒懒视频.py"
+        },
+        {
+            "key": "老地方",
+            "name": "老地方(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/老地方影院.py"
+        },
+        {
+            "key": "碎片",
+            "name": "碎片(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/碎片剧场.py"
+        },
+        {
+            "key": "壹影视",
+            "name": "壹影视(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/壹影视.py"
+        },
+        {
+            "key": "坚果",
+            "name": "坚果(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/坚果视频.py"
+        },
+        {
             "key": "csp_py_荐片",
             "name": "荐片(py)",
             "type": 3,
