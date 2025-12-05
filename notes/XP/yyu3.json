@@ -4,7 +4,7 @@
     "cateNode": "//li/a[contains(@href, '/vod/type/id')]",
     "cateName": "/text()",
     "cateId": "/@href",
-    "cateIdR": "/index.php/vod/type/id/(\\w+).html",
+    "cateIdR": "/index.php/vod/type/id/(\\w+)",
     "cateManual": {
         "动漫": "4",
         "电视剧": "39",
@@ -16,7 +16,7 @@
     "homeVodName": "/@title",
     "homeVodId": "/@href",
     "homeVodIdR": "/index.php/vod/detail/id/(\\d+).html",
-    "homeVodImg": "/img/@original",
+    "homeVodImg": "/img/@src",
     "homeVodImgR": "\\S+(http\\S+)",
     "homeVodMark": "/label[@class='text']/text()",
     "cateUrl": "http://www.yyu3.com/index.php/vod/show?id={cateId}&&page={catePg}",
@@ -31,7 +31,7 @@
     "dtNode": "//div[@class='detail-cols fn-clear']/div[@class='detail-info fn-left']",
     "dtName": "/div[@class='detail-title fn-clear']/h1/text()",
     "dtNameR": "",
-    "dtImg": "/../div[@class='detail-pic fn-left']/img/@original",
+    "dtImg": "/../div[@class='detail-pic fn-left']/img/@src",
     "dtImgR": "\\S+(http\\S+)",
     "dtCate": "/div[@class='info fn-clear']/dl[@class='fn-left'][4]//a/text()",
     "dtCateR": "",
@@ -56,14 +56,13 @@
     "dtUrlIdR": "/index.php/vod/detail/id/(\\S+).html",
     "dtUrlName": "/text()",
     "dtUrlNameR": "",
-    "playUrl": "http://www.yyu3.com/index.php/vod/play/id/{playUrl}.html",
+    "playUrl": "http://www.yyu3.com{playUrl}",
     "playUa": "",
     "searchUrl": "http://www.yyu3.com/index.php/vod/search.html?wd={wd}",
     "scVodNode": "//ul[@class='show-list']/li",
     "scVodName": "/div[@class='play-txt']/h2/a[1]/text()",
     "scVodId": "/div[@class='play-txt']/h2/a[1]/@href",
-    "scVodIdR": "/index.php/vod/detail/id/(\\w+).html",
+    "scVodIdR": "/index.php/vod/detail/id/(\\w+)",
     "scVodImg": "/a[@class='play-img']/img/@original",
     "scVodMark": "/div[@class='play-txt']/dl[@class='fn-left'][1]/dd/span/text()"
 }
-
