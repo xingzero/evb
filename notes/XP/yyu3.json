@@ -4,7 +4,7 @@
     "cateNode": "//li/a[contains(@href, '/vod/type/id')]",
     "cateName": "/text()",
     "cateId": "/@href",
-    "cateIdR": "/index.php/vod/type/id/(\\w+)",
+    "cateIdR": "/(\\w+)",
     "cateManual": {
         "动漫": "4",
         "电视剧": "39",
@@ -23,7 +23,7 @@
     "cateVodNode": "//ul[@class='img-list']/li/a",
     "cateVodName": "/@title",
     "cateVodId": "/@href",
-    "cateVodIdR": "/index.php/vod/detail/id/(\\w+)",
+    "cateVodIdR": "/(\\w+)",
     "cateVodImg": "/img/@original",
     "cateVodImgR": "\\S+(http\\S+)",
     "cateVodMark": "/i/text()",
@@ -53,7 +53,7 @@
     "dtUrlNode": "//div[@class='ui-box marg']/div[@class='video_list fn-clear']",
     "dtUrlSubNode": "/a",
     "dtUrlId": "/@href",
-    "dtUrlIdR": "/index.php/vod/play/(\\S+)",
+    "dtUrlIdR": "/(\\S+)",
     "dtUrlName": "/text()",
     "dtUrlNameR": "",
     "playUrl": "http://www.yyu3.com/{playUrl}",
@@ -62,7 +62,7 @@
     "scVodNode": "//ul[@class='show-list']/li",
     "scVodName": "/div[@class='play-txt']/h2/a[1]/text()",
     "scVodId": "/div[@class='play-txt']/h2/a[1]/@href",
-    "scVodIdR": "/index.php/vod/detail/id/(\\w+)",
+    "scVodIdR": "/(\\w+)",
     "scVodImg": "/a[@class='play-img']/img/@original",
     "scVodMark": "/div[@class='play-txt']/dl[@class='fn-left'][1]/dd/span/text()"
 }
