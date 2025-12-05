@@ -1177,7 +1177,7 @@
         },
         {
             "key": "YY粤语",
-            "name": "YY粤语(XBPQ)",
+            "name": "YY粤语(XP)",
             "type": 3,
             "api": "csp_XPath",
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/evb/master/notes/XP/yyu3.json",
