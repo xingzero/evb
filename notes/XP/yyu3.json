@@ -24,7 +24,7 @@
     "cateVodName": "/@title",
     "cateVodId": "/@href",
     "cateVodIdR": "/index.php/vod/detail/id/(\\w+).html",
-    "cateVodImg": "/img/@original",
+    "cateVodImg": "/img/@src",
     "cateVodImgR": "\\S+(http\\S+)",
     "cateVodMark": "/i/text()",
     "dtUrl": "http://www.yyu3.com/index.php/vod/detail/id/{vid}.html",
@@ -63,6 +63,6 @@
     "scVodName": "/div[@class='play-txt']/h2/a[1]/text()",
     "scVodId": "/div[@class='play-txt']/h2/a[1]/@href",
     "scVodIdR": "/index.php/vod/detail/id/(\\w+)",
-    "scVodImg": "/a[@class='play-img']/img/@original",
+    "scVodImg": "/a[@class='play-img']/img/@src",
     "scVodMark": "/div[@class='play-txt']/dl[@class='fn-left'][1]/dd/span/text()"
 }
