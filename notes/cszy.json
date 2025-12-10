@@ -1184,6 +1184,17 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/master/notes/jar/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
         {
+            "key": "粤语天堂",
+            "name": "粤语天堂(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://www.yueyutt.com/playlist/{cateId}/0/0/0/0/{catePg}/",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#纪录片$5"
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/java/master/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
             "key": "鲸鱼(py)",
             "name": "鲸鱼(py)",
             "type": 3,
