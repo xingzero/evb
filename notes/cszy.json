@@ -1544,26 +1544,28 @@
             }
         },
         {
-            "key": "米兔影视",
-            "name": "米兔影视 | APP",
+            "key": "米兔影视2",
+            "name": "米兔影视2 | APP",
             "type": 3,
             "changeable": 0,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
+            "api": "csp_Appfox",
             "ext": {
                 "host": "http://115.190.136.55:1689",
                 "cms": "http://d.tv.tkbot.fun/api.php/appfox/vod?ac=videolist",
                 "ver": 2
-            }
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/1204.png;md5;13bd3e6c4c887d3f139a347625a08bee"
         },
         {
             "key": "思念",
             "name": "思念",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
+            "api": "csp_Appfox",
             "ext": {
                 "host": "https://snys2.xyz",
                 "ver": 2
-            }
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/1204.png;md5;13bd3e6c4c887d3f139a347625a08bee"
         },
         {
             "key": "星空fox",
@@ -1573,11 +1575,12 @@
             "ext": "http://fox.qwqfun.com"
         },
         {
-            "key": "极兔",
-            "name": "极兔",
+            "key": "极兔2",
+            "name": "极兔2",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
-            "ext": "http://www.mzd.asia"
+            "api": "csp_Appfox",
+            "ext": "http://www.mzd.asia",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/1204.png;md5;13bd3e6c4c887d3f139a347625a08bee"
         },
         {
             "key": "二三fox",
