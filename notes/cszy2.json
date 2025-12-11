@@ -1510,23 +1510,25 @@
             }
         },
         {
-            "key": "米兔",
-            "name": "米兔(fox)",
+            "key": "米兔2",
+            "name": "米兔2(fox)",
             "type": 3,
             "changeable": 0,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
+            "api": "csp_Appfox",
             "ext": {
                 "host": "http://115.190.136.55:1689",
                 "cms": "http://d.tv.tkbot.fun/api.php/appfox/vod?ac=videolist",
                 "ver": 2
-            }
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/1204.png;md5;13bd3e6c4c887d3f139a347625a08bee"
         },
         {
-            "key": "吉米",
-            "name": "吉米(fox)",
+            "key": "吉米2",
+            "name": "吉米2(fox)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
-            "ext": "http://fox.tvmao.top"
+            "api": "csp_Appfox",
+            "ext": "http://fox.tvmao.top",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/1204.png;md5;13bd3e6c4c887d3f139a347625a08bee"
         },
         {
             "key": "思念",
