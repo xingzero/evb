@@ -304,7 +304,15 @@
             "api": "https://mrgj.cc/api.php/provide/vod/",
             "timeout": 15
         },
-                {
+        {
+            "key": "港迷",
+            "name": "港迷(SP)",
+            "type": 3,
+            "api": "csp_AppSKGuard",
+            "ext": "EFcDHHNuy14JSHmpa1R7J1hAuA1lDkFVkeMEu6GBqqtefeGuZqfw5ancOEha2wOXcUNT8kJ44cRfL9OSpgMFIre9mqVhS9oL8IVE7nPFphbV/weUM4jlRP+/NqnqTmHPrQU/xklJ2/ULVcRD4oX3Kg==",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f1212.jpg"
+        },
+        {
             "key": "鲸鱼(AQ)",
             "name": "鲸鱼(AQ)",
             "type": 3,
