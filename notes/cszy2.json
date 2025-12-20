@@ -479,14 +479,14 @@
             "key": "剧永久(AV⁶)",
             "name": "剧永久(AV⁶)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/drpy-node/main/spider/py/AppV6.py",
+            "api": "https://13826.kstore.vip/AppToV5.py",
             "ext": "http://111.173.114.61:8762"
         },
         {
             "key": "剧下饭(AV⁶)",
             "name": "剧下饭(AV⁶)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/drpy-node/main/spider/py/AppV6.py",
+            "api": "https://13826.kstore.vip/AppToV5.py",
             "ext": "http://jxfmax.juxiafan.com/icciu_api.php/v1.vod"
         },
         {
@@ -514,56 +514,56 @@
             "key": "皮皮虾[ATV⁵]",
             "name": "皮皮虾[ATV⁵]",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/drpy-node/main/spider/py/AppToV5.py",
+            "api": "https://13826.kstore.vip/AppToV5.py",
             "ext": "http://38.55.237.41:8762"
         },
         {
             "key": "大米[AV²]",
             "name": "大米[AV²]",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/drpy-node/main/spider/py/AppV2².py",
+            "api": "https://13826.kstore.vip/AppToV5.py",
             "ext": "https://dmz8k4.wiki"
         },
         {
             "key": "河狸[AV²]",
             "name": "河狸[AV²]",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/drpy-node/main/spider/py/AppV2².py",
+            "api": "https://13826.kstore.vip/AppToV5.py",
             "ext": "https://www.heli888.cc"
         },
         {
             "key": "闪影[AV²]",
             "name": "闪影[AV²]",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/drpy-node/main/spider/py/AppV2².py",
+            "api": "https://13826.kstore.vip/AppToV5.py",
             "ext": "http://38.47.213.61:41271"
         },
         {
             "key": "热剧[AV²]",
             "name": "热剧[AV²]",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/drpy-node/main/spider/py/AppV2².py",
+            "api": "https://13826.kstore.vip/AppToV5.py",
             "ext": "https://www.rebovod.com"
         },
         {
             "key": "好震惊[AV²]",
             "name": "好震惊[AV²]",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/drpy-node/main/spider/py/AppV2².py",
+            "api": "https://13826.kstore.vip/AppToV5.py",
             "ext": "http://v.lnhaozhenjin.cn"
         },
         {
             "key": "剧下饭[AV²]",
             "name": "剧下饭[AV²]",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/drpy-node/main/spider/py/AppV2².py",
+            "api": "https://13826.kstore.vip/AppToV5.py",
             "ext": "https://www.rebovod.com"
         },
         {
             "key": "紫云[AV¹]",
             "name": "紫云[AV¹]",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/drpy-node/main/spider/py/AppV1.py",
+            "api": "https://13826.kstore.vip/AppToV5.py",
             "ext": "http://ziyuncms.feifan12.xyz/api.php"
         },
         {
