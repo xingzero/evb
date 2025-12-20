@@ -305,8 +305,8 @@
             "timeout": 15
         },
         {
-            "key": "港迷",
-            "name": "港迷(SP)",
+            "key": "港迷2",
+            "name": "港迷2(SP)",
             "type": 3,
             "api": "csp_AppSKGuard",
             "ext": "EFcDHHNuy14JSHmpa1R7J1hAuA1lDkFVkeMEu6GBqqtefeGuZqfw5ancOEha2wOXcUNT8kJ44cRfL9OSpgMFIre9mqVhS9oL8IVE7nPFphbV/weUM4jlRP+/NqnqTmHPrQU/xklJ2/ULVcRD4oX3Kg==",
