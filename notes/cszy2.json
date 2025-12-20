@@ -364,7 +364,8 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/drpy-node/main/spider/py/getapp3.4.4.py",
             "ext": {
                 "host":"https://99.jl8.top/1.txt",
-                "key":"xnybssspqtwotuwj"
+                "key":"xnybssspqtwotuwj",
+                "iv":"xnybssspqtwotuwj"
             }
         },
         {
@@ -492,21 +493,21 @@
             "key": "番喜(ATV⁵)",
             "name": "番喜(ATV⁵)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/drpy-node/main/spider/py/AppToV5.py",
+            "api": "https://13826.kstore.vip/AppToV5.py",
             "ext": "http://118.89.203.120:8762"
         },
         {
             "key": "畅看(ATV⁵)",
             "name": "畅看(ATV⁵)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/drpy-node/main/spider/py/AppToV5.py",
+            "api": "https://13826.kstore.vip/AppToV5.py",
             "ext": "http://118.89.203.120:8366"
         },
         {
             "key": "爱看剧(ATV⁵)",
             "name": "爱看剧(ATV⁵)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/drpy-node/main/spider/py/AppToV5.py",
+            "api": "https://13826.kstore.vip/AppToV5.py",
             "ext": "http://111.173.114.61:8762"
         },
         {
@@ -538,13 +539,6 @@
             "ext": "http://38.47.213.61:41271"
         },
         {
-            "key": "大米[AV²]",
-            "name": "大米[AV²]",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/drpy-node/main/spider/py/AppV2².py",
-            "ext": "https://dmz8k4.wiki"
-        },
-        {
             "key": "热剧[AV²]",
             "name": "热剧[AV²]",
             "type": 3,
@@ -560,7 +554,7 @@
         },
         {
             "key": "剧下饭[AV²]",
-            "name": "热剧[AV²]",
+            "name": "剧下饭[AV²]",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/drpy-node/main/spider/py/AppV2².py",
             "ext": "https://www.rebovod.com"
