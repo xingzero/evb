@@ -364,7 +364,8 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/drpy-node/main/spider/py/getapp3.4.4.py",
             "ext": {
                 "host": "https://99.jl8.top/1.txt",
-                "key": "xnybssspqtwotuwj"
+                "datakey": "xnybssspqtwotuwj",
+                "dataiv": "xnybssspqtwotuwj"
             }
         },
         {
