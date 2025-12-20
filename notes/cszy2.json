@@ -363,9 +363,8 @@
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/drpy-node/main/spider/py/getapp3.4.4.py",
             "ext": {
-                "host": "https://99.jl8.top/1.txt",
-                "datakey": "xnybssspqtwotuwj",
-                "dataiv": "xnybssspqtwotuwj"
+                "host":"https://99.jl8.top/1.txt",
+                "key":"xnybssspqtwotuwj"
             }
         },
         {
@@ -374,8 +373,8 @@
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/drpy-node/main/spider/py/getapp3.4.4.py",
             "ext": {
-                "host": "http://tvb.yy-fun.cc",
-                "datakey": "jcTz6Jda2aKrH8Tk"
+                "host":"http://tvb.yy-fun.cc",
+                "key":"jcTz6Jda2aKrH8Tk"
             }
         },
         {
@@ -3921,7 +3920,7 @@
             ]
         }
     ],
-    "logo": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/gif/24.gif",
+    "logo": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/gif/25.gif",
     "lives": [
         {
             "name": "看电视",
