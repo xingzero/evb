@@ -305,6 +305,14 @@
             "timeout": 15
         },
         {
+            "key": "椰子",
+            "name": "椰子(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "http://103.109.20.117:6699|xxm9N4P9rS2zjdyz",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251220.png;md5;caa22b5d283ec2bdc63f65b9310ea232"
+        },
+        {
             "key": "追番达人",
             "name": "追番达人(SP)",
             "type": 3,
