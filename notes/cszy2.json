@@ -305,6 +305,14 @@
             "timeout": 15
         },
         {
+            "key": "追番达人",
+            "name": "追番达人(SP)",
+            "type": 3,
+            "api": "csp_Appfox",
+            "ext": "https://fox.ystva.com",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/1210.png;md5;4434934a25184813d1891b8ab99a89df"
+        },
+        {
             "key": "仓鼠(AQ)",
             "name": "仓鼠(AQ)",
             "type": 3,
