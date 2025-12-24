@@ -305,6 +305,27 @@
             "timeout": 15
         },
         {
+            "key": "老鸭",
+            "name": "老鸭(fox)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
+            "ext": "http://103.109.20.117:550"
+        },
+                {
+            "key": "恋鱼",
+            "name": "恋鱼(fox)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
+            "ext": "https://173220859-1333208043.cos.ap-shanghai.myqcloud.com/1.json"
+        },
+                {
+            "key": "极兔",
+            "name": "极兔(fox)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
+            "ext": "https://www.dhxxfhsz.top"
+        },
+        {
             "key": "椰子",
             "name": "椰子(SP)",
             "type": 3,
