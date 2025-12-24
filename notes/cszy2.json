@@ -1345,6 +1345,14 @@
             "jar": "https://img2.gelonghui.com/library/26c48-e3487e20-44ba-4e37-8953-f4fbba99daed.png;md5;26c4814b6abd097a203e598030051ff2"
         },
         {
+            "key": "csp_比迪2",
+            "name": "比迪2(SP)",
+            "type": 3,
+            "api": "csp_AppQi",
+            "ext": "https://test.cms.bidiys.com|5ae8ee4bb95ea0ce|okhttp/3.10.0 BDYS/109.0.0.8",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251220.png;md5;caa22b5d283ec2bdc63f65b9310ea232"
+        },
+        {
             "key": "csp_咖啡",
             "name": "咖啡(SP)",
             "type": 3,
