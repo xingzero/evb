@@ -342,6 +342,18 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/1210.png;md5;4434934a25184813d1891b8ab99a89df"
         },
         {
+            "key": "TuneHub",
+            "name": "TuneHub",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/drpy-node/main/spider/catvod/TuneHub[B].js"
+        },
+        {
+            "key": "聚合短剧[短]",
+            "name": "聚合短剧[短]",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/drpy-node/main/spider/catvod/聚合短剧[短].js"
+        },
+        {
             "key": "仓鼠(AQ)",
             "name": "仓鼠(AQ)",
             "type": 3,
