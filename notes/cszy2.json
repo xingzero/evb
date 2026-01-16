@@ -1259,6 +1259,14 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251127.png;md5;45f1f9008b2ffbf7b92eff639e605296"
         },
         {
+            "key": "稀饭dm2(SP)",
+            "name": "稀饭dm2(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://dm.xifanacg.com|1yZ2Spn9krnzVKoC",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251127.png;md5;45f1f9008b2ffbf7b92eff639e605296"
+        },
+        {
             "key": "咕咕(SP)",
             "name": "咕咕(SP)",
             "type": 3,
