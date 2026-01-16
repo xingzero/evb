@@ -637,6 +637,13 @@
             "ext": "https://cunchu8.obs.cn-north-4.myhuaweicloud.com/config.json"
         },
         {
+            "key": "花花",
+            "name": "花花(fox)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
+            "ext": "http://103.23.148.102:12002"
+        },
+        {
             "key": "剧永久(AV⁶)",
             "name": "剧永久(AV⁶)",
             "type": 3,
