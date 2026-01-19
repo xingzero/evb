@@ -2531,6 +2531,17 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
+            "key": "饺子3",
+            "name": "饺子(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://jiaoziys.cyou/hot/index-{cateId}-最新-p-{catePg}.html",
+                "分类": "电影$movie#剧集$tv"
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
             "key": "小鸭",
             "name": "小鸭(XBPQ)",
             "type": 3,
