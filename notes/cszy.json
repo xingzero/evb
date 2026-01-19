@@ -692,6 +692,14 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251124.png;md5;d674699ad956f05cb6bdaa24dc765967"
         },
         {
+            "key": "白鸽",
+            "name": "白鸽(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://cy.baige.asia|599D0FE5178642FD",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251225.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
+        },
+        {
             "key": "星星",
             "name": "星星(SP)",
             "type": 3,
