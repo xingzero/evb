@@ -298,6 +298,42 @@
             "changeable": 1
         },
         {
+			"key": "爱瓜TV",
+			"name": "🐬爱瓜TV｜追剧",
+			"type": 4,
+			"api": "http://zhangqun1818.serv00.net/aigua1.php"
+		},
+        {
+			"api": "https://newtv.ggff.net/aigua?token=P69Phb_y",
+			"key": "嗷呜爱瓜TV",
+			"name": "🐬嗷呜爱瓜TV｜追剧",
+			"type": 4
+		},
+        {
+			"api": "https://newtv.ggff.net/oule?token=P69Phb_y",
+			"key": "欧乐影院",
+			"name": "🐬欧乐影院｜追剧",
+			"type": 4
+		},
+        {
+			"key": "网易云音乐",
+			"name": "🐬网易云｜音乐",
+			"type": 3,
+			"api": "https://xn--fjq53n.xyz/Ting/yinyue/网易云音乐.py"
+		},
+		{
+			"key": "网易云音乐1",
+			"name": "🐬网易云1｜音乐",
+			"type": 3,
+			"api": "https://xn--fjq53n.xyz/Ting/yinyue/网易云音乐1.py"
+		},
+        {
+            "key": "API_如意",
+            "name": "🐬如意影视｜追剧",
+            "type": 1,
+            "api": "https://cj.rycjapi.com/api.php/provide/vod"
+        },
+        {
             "key": "白鸽",
             "name": "白鸽(SP)",
             "type": 3,
