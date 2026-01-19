@@ -3945,6 +3945,31 @@
             "url": "Web"
         },
         {
+            "name": "五妹轮询",
+            "type": 0,
+            "url": "https://down.nigx.cn/jx.zzong6599.workers.dev/?url="
+        },
+        {
+            "name": "五妹自动",
+            "type": 0,
+            "url": "https://down.nigx.cn/xjx.zzong6599.workers.dev/?url="
+        },
+        {
+            "name": "小腾",
+            "type": 1,
+            "url": "http://shybot.top/v2/video/jx/?shykey=4595a71a4e7712568edcfa43949236b42fcfcb04997788ebe7984d6da2c6a51c&url="
+        },
+        {
+            "name": "小芒",
+            "type": 1,
+            "url": "http://shybot.top/v2/video/jx/?shykey=4595a71a4e7712568edcfa43949236b42fcfcb04997788ebe7984d6da2c6a51c&qn=max&url="
+        },
+        {
+            "name": "岁岁",
+            "type": 1,
+            "url": "http://sspa8.top:8100/api/?key=1060089351&url="
+        },
+        {
             "name": "无上",
             "type": 1,
             "url": "http://jx.4kbox.top/jx/?url="
