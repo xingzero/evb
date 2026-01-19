@@ -834,6 +834,14 @@
             "name": "饺子(SP)",
             "type": 3,
             "api": "csp_Jiaozi",
+            "ext": "https://jiaoziys.cyou",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251127.png;md5;45f1f9008b2ffbf7b92eff639e605296"
+        },
+        {
+            "key": "csp_Jiaozi2",
+            "name": "饺子2(SP)",
+            "type": 3,
+            "api": "csp_Jiaozi",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251127.png;md5;45f1f9008b2ffbf7b92eff639e605296"
         },
         {
