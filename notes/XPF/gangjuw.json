@@ -61,7 +61,7 @@
     "dtUrlIdR": "/play/(\\S+).html",
     "dtUrlName": "/text()",
     "dtUrlNameR": "",
-    "playUrl": "https://www.gangjuw.tv/play/{playUrl}",
+    "playUrl": "https://www.gangjuw.tv/play/{playUrl}.html",
     "playUa": "",
     "searchUrl": "https://www.gangjuw.tv/search/-------------.html?wd={wd}",
     "scVodNode": "//div[contains(@class,'details-info-min col-md-12 col-sm-12 col-xs-12')]",
@@ -806,3 +806,4 @@
     }
 
 }
+
