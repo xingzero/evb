@@ -2574,6 +2574,17 @@
             },
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
+		{
+            "key": "港剧网",
+            "name": "港剧网(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://www.gangjuw.tv/category/{cateId}-{area}-------{catePg}---{year}.html",
+                "分类": "电影$1#剧集$2#综艺$3#动漫$4"
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
         {
             "key": "饺子3",
             "name": "饺子(XBPQ)",
