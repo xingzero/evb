@@ -67,7 +67,7 @@
     "scVodNode": "//div[contains(@class,'details-info-min col-md-12 col-sm-12 col-xs-12')]",
     "scVodName": "//div[contains(@class,'col-md-3 col-sm-4 col-xs-3')]/a/@title",
     "scVodId": "//div[contains(@class,'col-md-3 col-sm-4 col-xs-3')]/a/@href",
-    "scVodIdR": "",
+    "scVodIdR": "/content/(\\w+).html",
     "scVodImg": "//div[contains(@class,'col-md-3 col-sm-4 col-xs-3')]/a/@data-original",
     "scVodMark": "//li[@class='col-md-6 col-sm-6 col-xs-12']/span/text()",
     "filter": {
@@ -804,6 +804,4 @@
             }
         ]
     }
-
 }
-
