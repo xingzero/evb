@@ -1711,6 +1711,14 @@
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XPF/kktvb.json",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
+		{
+            "key": "csp_xpath_gangjuw",
+            "name": "港剧屋(XPF)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/evb/main/notes/XPF/gangjuw.json",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
+        },
         {
             "key": "csp_xpath_123hktv",
             "name": "123hktv(XP)",
