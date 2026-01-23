@@ -302,6 +302,7 @@
             "name": "易剧集2(XPF)",
             "type": 3,
             "api": "csp_XPathFilter",
+			"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/evb/main/notes/XPF/kktvb.json",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
