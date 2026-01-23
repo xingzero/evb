@@ -297,6 +297,25 @@
             "quickSearch": 1,
             "changeable": 1
         },
+		{
+            "key": "csp_xpath_kktvb2",
+            "name": "易剧集2(XPF)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/evb/main/notes/XPF/kktvb.json",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
+        },
+		{
+            "key": "秀儿(XP)",
+            "name": "秀儿(XP)",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/evb/main/notes/XP/xiuer.json",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
+        },
         {
 			"key": "爱瓜TV",
 			"name": "🐬爱瓜TV｜追剧",
