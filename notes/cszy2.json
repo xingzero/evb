@@ -1065,6 +1065,43 @@
             "ext": "http://ys.qist.top|2SWSPFxugBLPPOKo|120",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251225.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
         },
+		{
+            "key": "林中小屋",
+            "name": "🏠林中小屋播",
+            "type": 3,
+            "api": "csp_AppYsV2Guard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "http://m51.gotto.top/api.php/v1.vod"
+        },
+		        {
+            "key": "闪影视频",
+            "name": "🎇闪影视频✨蓝光秒播",
+            "type": 3,
+            "api": "csp_AppYsV2Guard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod",
+            "categories": [
+                "电影",
+                "剧集",
+                "短剧",
+                "综艺",
+                "动漫"
+            ]
+        },
+		        {
+            "key": "guanfang",
+            "name": "🕊️爱优腾芒✨资源解析",
+            "type": 3,
+            "api": "csp_AppYsV2Guard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2,
+            "ext": "http://114.66.55.28:4816/api.php/app/"
+        },
         {
             "key": "驿站",
             "name": "驿站(SP)",
@@ -1072,6 +1109,86 @@
             "api": "csp_AppGet",
             "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251225.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
+        },
+		{
+            "key": "驿站2",
+            "name": "驿站2(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://ie6ydh7n3bm2w7e6wr8v5b3wq8.68.gy:61668|dyyztvapiappyyds",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251225.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
+        },
+		{
+            "key": "番喜",
+            "name": "番喜",
+            "type": 3,
+            "api": "https://gitee.com/lzxw66/lzxw9/raw/master/py/Applzxw.py",
+            "ext": "http://118.89.203.120:8365/"
+        },
+		{
+            "key": "皮皮虾",
+            "name": "皮皮虾",
+            "type": 3,
+            "api": "https://gitee.com/lzxw66/lzxw9/raw/master/py/Applzxw.py",
+            "ext": "http://38.55.237.41:8762"
+        },
+		        {
+            "key": "九月听书",
+            "name": "🤪九月听书✨免扫码✅",
+            "type": 3,
+            "api": "https://gitee.com/lzxw66/lzxw9/raw/master/py/九月听书.py"
+        },
+		        {
+            "key": "书音",
+            "name": "📚书音听书✨在线听书",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitee.com/lzxw66/lzxw9/raw/master/json/书音.json",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+				        {
+            "key": "4Kvm影视",
+            "name": "4Kvm影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitee.com/lzxw66/lzxw9/raw/master/json/4kvm.json",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+		        {
+            "key": "星芽短剧",
+            "name": "🌱星芽短剧✨资源秒播",
+            "type": 3,
+            "api": "https://gitee.com/lzxw66/lzxw9/raw/master/py/星芽短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+		        {
+            "key": "甜圈2",
+            "name": "🍧甜圈短剧✨全网短剧",
+            "type": 3,
+            "api": "https://gitee.com/lzxw66/lzxw9/raw/master/py/tianquan.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "新韩剧网",
+            "name": "🧐新韩剧网✨韩剧资源",
+            "type": 3,
+            "api": "https://gitee.com/lzxw66/lzxw9/raw/master/py/新韩剧网.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "羊羊",
@@ -4314,6 +4431,13 @@
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.v1.mk/logo/{name}.png"
         },
+		{
+      "name": "🎁Live",
+      "type": 0,
+      "url": "http://zyck.xyz:9925/5483/7888/",
+      "playerType": 2,
+      "timeout": 10
+    },
         {
             "name": "diyp",
             "type": 0,
