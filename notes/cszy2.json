@@ -2229,29 +2229,23 @@
             "ext": "http://app.hktvyb.cc"
         },
         {
-            "key": "未来2",
-            "name": "未来2(fox)",
+            "key": "未来(fox)",
+            "name": "未来(fox)",
             "type": 3,
             "changeable": 0,
-            "api": "csp_Appfox",
-            "ext": {
-                "host": "http://kumiao.yzbao.com.cn",
-                "ver": 2
-            },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/1204.png;md5;13bd3e6c4c887d3f139a347625a08bee"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
+            "ext": "http://kumiao.yzbao.com.cn"  
         },
         {
-            "key": "米兔2",
-            "name": "米兔2(fox)",
+            "key": "米兔(fox)",
+            "name": "米兔(fox)",
             "type": 3,
             "changeable": 0,
-            "api": "csp_Appfox",
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
             "ext": {
                 "host": "http://115.190.136.55:1689",
-                "cms": "http://d.tv.tkbot.fun/api.php/appfox/vod?ac=videolist",
-                "ver": 2
-            },
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/1204.png;md5;13bd3e6c4c887d3f139a347625a08bee"
+                "cms": "http://d.tv.tkbot.fun/api.php/appfox/vod?ac=videolist"
+            }
         },
         {
             "key": "吉米2",
