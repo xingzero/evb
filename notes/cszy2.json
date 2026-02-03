@@ -368,6 +368,13 @@
             "api": "https://mrgj.cc/api.php/provide/vod/",
             "timeout": 15
         },
+		        {
+            "key": "每日2",
+            "name": "每日2(xml)",
+            "type": 1,
+            "api": "https://www.mrgj.cc/api.php/provide/vod/at/xml",
+            "timeout": 15
+        },
         {
             "key": "老鸭",
             "name": "老鸭(fox)",
