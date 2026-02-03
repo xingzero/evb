@@ -361,6 +361,22 @@
             "ext": "https://cy.baige.asia|599D0FE5178642FD",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251225.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
         },
+		{
+            "key": "中国直播",
+            "name": "中国直播",
+            "type": 3,
+            "api": "csp_AppQi",
+            "ext": "http://110.81.153.7:1963/get.txt|k7L9mQ2xR4pW8n88",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251225.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
+        },
+		{
+            "key": "中国直播2",
+            "name": "中国直播2",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "http://110.81.153.7:1963/get.txt|k7L9mQ2xR4pW8n88",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251225.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
+        },
         {
             "key": "每日",
             "name": "每日(xml)",
