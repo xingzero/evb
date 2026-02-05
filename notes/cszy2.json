@@ -382,6 +382,7 @@
             "name": "每日(xml)",
             "type": 1,
             "api": "https://mrgj.cc/api.php/provide/vod/",
+			"playUrl": "https://bfq.52gangju.cn/?url=",
             "timeout": 15
         },
 		{
@@ -389,6 +390,7 @@
             "name": "每日2(xml)",
             "type": 0,
             "api": "https://www.mrgj.cc/api.php/provide/vod/at/xml",
+			"playUrl": "json:https://bfq.52gangju.cn/?url=",
             "timeout": 15,
             "categories":[
                 "喜剧片",
