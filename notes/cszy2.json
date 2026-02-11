@@ -2555,6 +2555,7 @@
             "key": "坚果",
             "name": "坚果(py)",
             "type": 3,
+			"ext": "http://m.bffree.cn",
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/坚果视频.py"
         },
         {
