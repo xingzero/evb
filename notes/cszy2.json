@@ -407,6 +407,14 @@
             "type": 3,
             "api": "csp_AppNox",
             "ext": "http://110.81.153.7:8081|5586733d1ddb0b46|1.3.8",
+            "jar": "https://img2.gelonghui.com/library/c4def-29ea7616-d551-4a73-9b31-cace1447426d.png;md5;c4def4496c2e1a0959c8fedfaff41488"
+        },
+		{
+            "key": "星影2",
+            "name": "星影2",
+            "type": 3,
+            "api": "csp_AppNox",
+            "ext": "A6Qdnhaak1wq8VD2zoKzVewA+zGQjMX/8DtQQCJGfI1sX/u5fEdAUEo1HuDkx1km",
             "jar": "https://img2.gelonghui.com/library/9bd18-da9a103c-8f92-465a-b257-ffd88055b04b.png;md5;9bd18a01e0c5f7662bf11f13d5c95c23"
         },
         {
