@@ -378,6 +378,14 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251225.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
         },
 		{
+            "key": "Jianguo",
+            "name": "坚果(SP)",
+            "type": 3,
+            "api": "csp_AppJg",
+            "ext": "http://m.bffree.cn",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260210.png;md5;c4def4496c2e1a0959c8fedfaff41488"
+        },
+		{
             "key": "mino4k",
             "name": "米诺",
             "type": 3,
@@ -386,8 +394,8 @@
             "jar": "https://img2.gelonghui.com/library/9bd18-da9a103c-8f92-465a-b257-ffd88055b04b.png;md5;9bd18a01e0c5f7662bf11f13d5c95c23"
         },
         {
-            "key": "追忆",
-            "name": "追忆",
+            "key": "追忆2",
+            "name": "追忆2",
             "type": 3,
             "api": "csp_AppNox",
             "ext": "http://110.42.37.69:8080|7f8617d03203745a|2.0.0|20|com.recall.app|EB:19:FD:A7:8F:67:99:CD:6C:F0:6F:A4:72:3F:7A:C7:E9:2E:95:79:6F:5B:60:EA:CD:D8:05:CF:3E:06:D9:71",
