@@ -423,7 +423,7 @@
             "type": 3,
             "api": "csp_AppNox",
             "ext": "A6Qdnhaak1wq8VD2zoKzVewA+zGQjMX/8DtQQCJGfI1sX/u5fEdAUEo1HuDkx1km",
-            "jar": "https://img2.gelonghui.com/library/9bd18-da9a103c-8f92-465a-b257-ffd88055b04b.png;md5;9bd18a01e0c5f7662bf11f13d5c95c23"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260210.png;md5;c4def4496c2e1a0959c8fedfaff41488"
         },
 		{
             "key": "星影3",
@@ -431,7 +431,23 @@
             "type": 3,
             "api": "csp_AppNox",
             "ext": "A6Qdnhaak1wq8VD2zoKzVQQ0FdA44FbuhcYn32hW6dxxBu7tnmyuacwrXfNjDgMf8XpoNVcywR4Z6O462mUUqfY4LlkhbCmHvPEQcxA3rUlZk/v7o70yPlY/VooOoTGCYVwyGTsSBPkCug5EryBP3u2VWEzDg9HxbfjGk4P6jZl+I20f3VsZsTW21GpYj3uWhpItreK1Nq2UdmgiDY+MdVl8V61mh3oLqtzqmGR7YDs=",
-            "jar": "https://img2.gelonghui.com/library/9bd18-da9a103c-8f92-465a-b257-ffd88055b04b.png;md5;9bd18a01e0c5f7662bf11f13d5c95c23"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260210.png;md5;c4def4496c2e1a0959c8fedfaff41488"
+        },
+		{
+            "key": "顾我2",
+            "name": "顾我2(SP)",
+            "type": 3,
+            "api": "csp_AppGetV2",
+            "ext": "N/01JeZBCBEQ0wOXNuAI/kwsk5p8MqEDFtLQfMnVixDNodW6h3yknJ0O47HN+ySzcqHSPQtTeHgAvnMVMolGPqTNRfEJ/8Ig5H0hTsHFjNGXL5OVpWSZap4nLlzZ9pC6ySFwrNbAc+iqlFCc6z5KL6GjhpXci7bkuo8YCmxG8LkVMThjtRobWKZ1e3OUf8iC59/IyFSC+uQsfZ1rrWFNaZQt+eFNaeVHeMjfA7SOcNV+pkm+lX4Gat7MacLYC9LljY+gazPVjkD5hfN4kOg2pDcdLcQRWnylKs4RrxKVvq1qtoJicNIMxej65Xg+Dr1utKuFqyKRxre38NOR3dI+nG+WBoDgBsil76zpdeFboyEih33jRIbJ0QXY11r7XTDsVV2LaQb+dJaJbY1LEl7rEF/BaE+Ynj1X+sVapCX5Bi2IG68t3waAsQz5dq/1NzjTRQTg9OtFW05LL1UeJTmSeoepyNfixFoonivaJleB4G8=",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260207.png;md5;9bd18a01e0c5f7662bf11f13d5c95c23"
+        },
+		        {
+            "key": "顾我3",
+            "name": "顾我3(SP)",
+            "type": 3,
+            "api": "csp_AppGetV2",
+            "ext": "N/01JeZBCBEQ0wOXNuAI/kwsk5p8MqEDFtLQfMnVixDNodW6h3yknJ0O47HN+ySzcqHSPQtTeHgAvnMVMolGPqTNRfEJ/8Ig5H0hTsHFjNGXL5OVpWSZap4nLlzZ9pC6ySFwrNbAc+iqlFCc6z5KL6GjhpXci7bkuo8YCmxG8LkVMThjtRobWKZ1e3OUf8iC59/IyFSC+uQsfZ1rrWFNaZQt+eFNaeVHeMjfA7SOcNV+pkm+lX4Gat7MacLYC9LljY+gazPVjkD5hfN4kOg2pDcdLcQRWnylKs4RrxKVvq1qtoJicNIMxej65Xg+Dr1utKuFqyKRxre38NOR3dI+nG+WBoDgBsil76zpdeFboyEih33jRIbJ0QXY11r7XTDsVV2LaQb+dJaJbY1LEl7rEF/BaE+Ynj1X+sVapCX5Bi2IG68t3waAsQz5dq/1NzjTRQTg9OtFW05LL1UeJTmSeoepyNfixFoonivaJleB4G8=",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260210.png;md5;c4def4496c2e1a0959c8fedfaff41488"
         },
         {
             "key": "每日",
