@@ -511,6 +511,13 @@
             "api": "https://www.mrgj.cc/api.php/provide/vod/at/xml",
             "timeout": 15
         },
+		{
+            "key": "每日4",
+            "name": "每日4(fox)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
+            "ext": "http://app.mrgj.one"
+        },
         {
             "key": "老鸭",
             "name": "老鸭(fox)",
