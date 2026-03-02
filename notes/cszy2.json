@@ -491,14 +491,65 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
             "ext": "http://103.109.20.117:550"
         },
-                {
+        {
             "key": "恋鱼",
             "name": "恋鱼(fox)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
             "ext": "https://173220859-1333208043.cos.ap-shanghai.myqcloud.com/1.json"
         },
-                {
+        {
+            "key": "恋鱼2",
+            "name": "恋鱼2(fox)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
+            "ext": "http://103.117.137.33:2443"
+        },
+	    {	
+            "key": "缘梦2",
+            "name": "缘梦2(ag)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://dtqj.ggtvb.cc/dtjp.txt|eecbio48dsq131ee",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251220.png;md5;caa22b5d283ec2bdc63f65b9310ea232"
+        },
+		{	
+            "key": "金牌3",
+            "name": "金牌3(ag)",
+            "type": 3,
+            "api": "csp_AppQi",
+            "ext": "https://dtqj.ggtvb.cc/dtjp.txt|eecbio48dsq131ee",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251220.png;md5;caa22b5d283ec2bdc63f65b9310ea232"
+        },
+		{
+            "key": "永恒",
+            "name": "永恒(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Hmys.py",
+            "ext": {
+                "host": "https://dy.oogsy.com",
+                "app_id": "yongheng",
+				"deviceid": "92ec8baead8e788b",
+                "versionCode": "10000",
+                "UMENG_CHANNEL": "zhuan"
+            }
+        },
+		{
+            "key": "人人PHP",
+            "name": "👭人人┃PHP",
+            "type": 4,
+            "api": "http://jiduo666.dpdns.org/rrsp.php",
+            "changeable": 1
+        },
+		{
+            "key": "100听书",
+            "name": "📚100┃听书",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "http://rihou.cc:88/xb/100听书.json",
+            "jar": "http://rihou.cc:88/jar/xbpq.jar"
+        },
+        {
             "key": "极兔",
             "name": "极兔(fox)",
             "type": 3,
