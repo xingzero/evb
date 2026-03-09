@@ -439,14 +439,6 @@
             "jar": "https://img2.gelonghui.com/library/c4def-29ea7616-d551-4a73-9b31-cace1447426d.png;md5;c4def4496c2e1a0959c8fedfaff41488"
         },
 		{
-            "key": "星影2",
-            "name": "星影2",
-            "type": 3,
-            "api": "csp_AppNox",
-            "ext": "A6Qdnhaak1wq8VD2zoKzVewA+zGQjMX/8DtQQCJGfI1sX/u5fEdAUEo1HuDkx1km",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260210.png;md5;c4def4496c2e1a0959c8fedfaff41488"
-        },
-		{
             "key": "星影3",
             "name": "星影3",
             "type": 3,
@@ -533,6 +525,51 @@
                 "versionCode": "10000",
                 "UMENG_CHANNEL": "zhuan"
             }
+        },
+		{
+            "key": "九宵",
+            "name": "九宵(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Hmys.py",
+            "ext": {
+                "host": "https://dy.stxbed.com",
+                "app_id": "jiuxiao",
+                "deviceid": "45d8c03dd76e10e1",
+                "versionCode": "10000",
+                "UMENG_CHANNEL": "share"
+            }
+        },
+		{
+            "key": "星影2",
+            "name": "星影2(nox)",
+            "type": 3,
+            "api": "csp_AppNox",
+            "ext": "A6Qdnhaak1wq8VD2zoKzVQQ0FdA44FbuhcYn32hW6dxxBu7tnmyuacwrXfNjDgMf8XpoNVcywR4Z6O462mUUqfY4LlkhbCmHvPEQcxA3rUlZk/v7o70yPlY/VooOoTGCYVwyGTsSBPkCug5EryBP3u2VWEzDg9HxbfjGk4P6jZl+I20f3VsZsTW21GpYj3uWhpItreK1Nq2UdmgiDY+MdVl8V61mh3oLqtzqmGR7YDs=",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260306.png;md5;28e33eb59669c994ca140064ad4a1eef"
+        },
+		{
+            "key": "爱影3",
+            "name": "爱影3(nox)",
+            "type": 3,
+            "api": "csp_AppNox",
+            "ext": "mOSIdLC2tthoJSjZpTekEaIwDaRshBrqWi7P32oLbp1s7NGWMXRizHlp68QMoyWr+LwvogjaOvSo8mKlY3ocSJo/wyGWivT8BAbISZL+5AJ8TswhGy8oP1QT5uMK7GoZgBgJP0hZAB4pcA25XVFupwJxZq71I1YpehNeBYQwkgIlBobHHvTAtW/Ui9m6ftBS96BTh6ri0HX/0tkKtW63glxEgqpOBD3N9eWINV3tR9A=",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260306.png;md5;28e33eb59669c994ca140064ad4a1eef"
+        },
+		{
+            "key": "爱营",
+            "name": "爱营(SP)",
+            "type": 3,
+            "api": "csp_AppGetV2",
+            "ext": "N/01JeZBCBEQ0wOXNuAI/kwsk5p8MqEDFtLQfMnVixAS3aeDEPdCV317OImxNn6T3Hb5VmwFLOhgFAQJ+is4HZ3ndDCtqOfPVULszPg13PiW+RHbzH5TtSdAiFfw0D1dLa7TDpTcFxuXv5MJI8925dg51pBjkSqNZt8Jz0nbRDK8eQSoCbsw2I93ke+olS9cVWkurB8mwxms5nD8AqSV4eHdYOwwU2q4ln6jV8KEyhnOHxJEjNLT8hk0SFdgLqRwqbqyl6kSqmTlPX681FYZnBN19r49ojprcBeFmLUB3Rn0LrpWzz0zIeycV8N00oXiCh5kd2caQMyUPPWdyfQbKwV6V+6dQAKtSNoTpxRNGqTimifZEJFGizQMko6AQpQpW0FHr7B3gLmmiknNMWJe/gcG7lhWSAiIGzxVnzBhCmSlOKB3sq/tAQSBrPNWKpSNFx5prQHKpStELIHAnqdNUS31u0xrGq9ejUdadgR9pxO6QcCHk0Ln0tnUA69uiJ9q1udCFx8+5i+c320rpMKGnA==",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260306.png;md5;28e33eb59669c994ca140064ad4a1eef"
+        },
+		{
+            "key": "顾我4",
+            "name": "顾我4(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "FNc7O3Sq/hxz7uCzbccPTwmKS9QhqbhDC5J/tBK99TXBAOG5IeeHo7xSXryC0vBoO5B1l2XmjJKdkeCZu5v1UxCZcIXe/1cmcBYcHAk746JE1FosonleIPqUFKByjhLwUU1doZS06jAVhSjz7X90y5GWmFqHmqD7ArxYzUSMQxyKerhNQ2ZWaJ2ka4jFMRPVVDQrBge5CgBGsw/HTb/+Q12qdcSTymLUN/cfwoUZ4uqBcSPbxSIrB4znIU2PcCtnX14vLtsWp1u/cbGV+kP8486YY8kGEs2qq+T34UaXBZf9Kk1t0Qt6yrj57yptwkeJXa2gK176ebs/D71tmX2ErBjije7pqwpRtEmeAmBWxohh9kLrGdh97ODRSzyNYE93Ai7nbGoskd/2r1Uu5NLCEqCIBBhH1qI6Jl/jWIVcngIDBm5KoTPs1ZxNWEqnOyP8nf8FuHZkRp/o26HL5LXb17UOkCmecqDKg3vjcnBKPNg=",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260306.png;md5;28e33eb59669c994ca140064ad4a1eef"
         },
 		{
             "key": "人人PHP",
