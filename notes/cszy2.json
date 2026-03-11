@@ -150,8 +150,8 @@
             "changeable": 1
         },
         {
-            "key": "追剧",
-            "name": "追剧(SP)",
+            "key": "",
+            "name": "(SP)",
             "type": 3,
             "api": "csp_AppSxGuard",
             "timeout": 10,
@@ -340,20 +340,20 @@
         },
         {
 			"key": "爱瓜TV",
-			"name": "🐬爱瓜TV｜追剧",
+			"name": "🐬爱瓜TV｜",
 			"type": 4,
 			"api": "http://zhangqun1818.serv00.net/aigua1.php"
 		},
         {
 			"api": "https://newtv.ggff.net/aigua?token=P69Phb_y",
 			"key": "嗷呜爱瓜TV",
-			"name": "🐬嗷呜爱瓜TV｜追剧",
+			"name": "🐬嗷呜爱瓜TV｜",
 			"type": 4
 		},
         {
 			"api": "https://newtv.ggff.net/oule?token=P69Phb_y",
 			"key": "欧乐影院",
-			"name": "🐬欧乐影院｜追剧",
+			"name": "🐬欧乐影院｜",
 			"type": 4
 		},
         {
@@ -370,7 +370,7 @@
 		},
         {
             "key": "API_如意",
-            "name": "🐬如意影视｜追剧",
+            "name": "🐬如意影视｜",
             "type": 1,
             "api": "https://cj.rycjapi.com/api.php/provide/vod"
         },
@@ -751,7 +751,7 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251220.png;md5;caa22b5d283ec2bdc63f65b9310ea232"
         },
         {
-            "key": "掌上追剧(AG)",
+            "key": "掌上(AG)",
             "name": "掌上追剧(AG)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/drpy-node/main/spider/py/getapp3.4.4.py",
@@ -766,7 +766,7 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "http://tvb.yy-fun.cc|jcTz6Jda2aKrH8Tk",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251220.png;md5;caa22b5d283ec2bdc63f65b9310ea232"
+            "jar": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/b368be3a81c188ef/0311.png;md5;755ee94255ccac2ea2307fe7f368d4ed"
         },
         {
             "key": "拾光视频[Hs]",
