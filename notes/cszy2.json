@@ -751,12 +751,12 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251220.png;md5;caa22b5d283ec2bdc63f65b9310ea232"
         },
         {
-            "key": "掌上1(AG)",
-            "name": "掌上追剧1(AG)",
+            "key": "掌上(AG)",
+            "name": "掌上追剧(AG)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/wobuhui666/drpy-node/main1/spider/py/getapp3.4.4.py",
             "ext": {
-                "xurl": "http://tvb.yy-fun.cc",
+                "host": "http://tvb.yy-fun.cc",
                 "key": "jcTz6Jda2aKrH8Tk"
             }
         },
