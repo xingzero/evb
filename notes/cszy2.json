@@ -556,6 +556,14 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260306.png;md5;28e33eb59669c994ca140064ad4a1eef"
         },
 		{
+            "key": "爱影4",
+            "name": "爱影4(nox)",
+            "type": 3,
+            "api": "csp_AppNox",
+            "ext": "mOSIdLC2tthoJSjZpTekEaIwDaRshBrqWi7P32oLbp1s7NGWMXRizHlp68QMoyWr+LwvogjaOvSo8mKlY3ocSJo/wyGWivT8BAbISZL+5AJ8TswhGy8oP1QT5uMK7GoZgBgJP0hZAB4pcA25XVFupwJxZq71I1YpehNeBYQwkgIlBobHHvTAtW/Ui9m6ftBS96BTh6ri0HX/0tkKtW63glxEgqpOBD3N9eWINV3tR9A=",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260320.png;md5;be34098bc78d1b0cf269c2617e8df966"
+        },
+		{
             "key": "爱营",
             "name": "爱营(SP)",
             "type": 3,
