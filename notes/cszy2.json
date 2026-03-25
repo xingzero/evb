@@ -4366,6 +4366,11 @@
             "type": 0,
             "url": "https://down.nigx.cn/xjx.zzong6599.workers.dev/?url="
         },
+		{
+            "name": "coffee",
+            "type": 0,
+            "url": "https://coffee.1ljx.com:32000/api/?key=36d3e7f8-f971-44a7-9063-5db4f218491d&url="
+        },
         {
             "name": "小腾",
             "type": 1,
