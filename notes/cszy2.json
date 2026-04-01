@@ -580,6 +580,14 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260306.png;md5;28e33eb59669c994ca140064ad4a1eef"
         },
 		{
+            "key": "顾我5",
+            "name": "顾我5(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/gw7.txt|ca94b06ca3c7d80e|122",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260326.jpg;md5;6b81056369cafcfad1adfa5fe5bc678a"
+        },
+		{
             "key": "人人PHP",
             "name": "👭人人┃PHP",
             "type": 4,
