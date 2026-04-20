@@ -178,6 +178,108 @@
       "api": "https://12134.kstore.space/%E5%B1%B1%E6%9C%89%E6%9C%A8%E5%85%AE.min.js",
       "ext": "https://film.symx.club"
     },
+		        {
+            "key": "mifun",
+            "name": "🐸mifun｜APP",
+            "jar": "https://wp.kayyw.com/f/Odakcd/vox.jar",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "host": "https://miget-1313189639.cos.ap-guangzhou.myqcloud.com/mifun.txt",
+                "datakey": "GETMIFUNGEIMIFUN"
+            }
+        },
+		        {
+            "key": "人人影视2",
+            "name": "♨️人人2｜影视",
+            "type": 3,
+            "api": "https://17264.kstore.space/人人影视.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1
+        },
+		{
+            "key": "全网",
+            "name": "🥥味精┃官解",
+            "type": 1,
+            "api": "https://zy.jinchancaiji.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "playUrl": "json:http://116.62.133.86:56682/api/?key=oDE5dyA0Xosa3OtRzV&url=",
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "金蝉",
+            "name": "金蝉｜采集",
+            "type": 1,
+            "api": "https://zy.jinchancaiji.com/api.php/provide/vod",
+            "searchable": 1,
+            "playUrl": "json:https://api.jxapi.cc/api/?key=87169fe0f2971cedba3d7c9d6718882e&url=",
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "布布",
+            "name": "🐷布布",
+            "type": 3,
+            "api": "https://gitee.com/monosodium-glutamate/wjwj/raw/master/lib/布布.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+        {
+            "key": "奇奇",
+            "name": "😋奇奇",
+            "type": 3,
+            "api": "https://gitee.com/monosodium-glutamate/wjwj/raw/master/lib/get.js",
+            "searchable": 1,
+            "ext": {
+                "host": "http://110.42.67.221:8003/",
+                "key": "123456789abcdefg",
+                "init": "V122",
+                "api": 2,
+                "ua": "okhttp/3.10.0"
+            },
+            "categories": [
+                "电视剧",
+                "综艺",
+                "短剧",
+                "动漫",
+                "少儿",
+                "学习"
+            ]
+        },
+		        {
+            "key": "lvdou",
+            "name": "🐲高兴4K推荐",
+            "type": 3,
+            "jar": "http://zz2.mftv.top/uploads/tvbox/custom_spider.jar",
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://8.mftv.top/api.php/app/"
+        },
+		        {
+            "key": "布卡",
+            "name": "🧿布卡｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://wp.kayyw.com/f/EbEgf0/ok%E4%BA%86.jar",
+            "ext": {
+                "副标题": "334",
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类url": "https://m.ycblcw.com/;;!H"
+            }
+        },
         {
             "key": "追剧",
             "name": "追剧(SP)",
