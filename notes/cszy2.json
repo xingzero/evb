@@ -1459,7 +1459,7 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251225.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260330.jpg;md5;59bcc1aa8c1ecf7d08a282ac63705ab3"
         },
 		{
             "key": "驿站2",
@@ -1834,8 +1834,16 @@
             "name": "米饭(SP)",
             "type": 3,
             "api": "csp_AppGet",
-            "ext": "https://get.mymifun.com|GETMIFUNGEIMIFUN",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251225.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
+            "ext": "https://miget-1313189639.cos.ap-guangzhou.myqcloud.com/mifun.txt|GETMIFUNGEIMIFUN",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260330.jpg;md5;59bcc1aa8c1ecf7d08a282ac63705ab3"
+        },
+		{
+            "key": "米饭2(SP)",
+            "name": "米饭2(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://getcn.mymifun.com|GETMIFUNGEIMIFUN",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260330.jpg;md5;59bcc1aa8c1ecf7d08a282ac63705ab3"
         },
         {
             "key": "囧次元(SP)",
