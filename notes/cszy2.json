@@ -149,9 +149,19 @@
             "quickSearch": 1,
             "changeable": 1
         },
+		{
+      "key": "CO4k",
+      "name": "🍭co4K┃戮默",
+      "type": 1,
+      "api": "https://co4k.1ljx.com:32010/c_api/co4k_cj/?ac=",
+      "playUrl": "json:http://82.157.249.28:1100/api/?key=lzflD3Juz0QtoJNGg3&url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
         {
-            "key": "",
-            "name": "(SP)",
+            "key": "追剧",
+            "name": "追剧(SP)",
             "type": 3,
             "api": "csp_AppSxGuard",
             "timeout": 10,
@@ -768,7 +778,7 @@
         },
         {
             "key": "掌上(AG)",
-            "name": "掌上追剧(AG)",
+            "name": "掌上(AG)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/wobuhui666/drpy-node/main1/spider/py/getapp3.4.4.py",
             "ext": {
