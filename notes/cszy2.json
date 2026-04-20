@@ -171,6 +171,13 @@
       "type": 3,
       "api": "https://12134.kstore.space/%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.py"
     },
+		    {
+      "key": "Symx",
+      "name": "🍭戮默┃4K若无声音切换音轨",
+      "type": 3,
+      "api": "https://12134.kstore.space/%E5%B1%B1%E6%9C%89%E6%9C%A8%E5%85%AE.min.js",
+      "ext": "https://film.symx.club"
+    },
         {
             "key": "追剧",
             "name": "追剧(SP)",
