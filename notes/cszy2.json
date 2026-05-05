@@ -3535,6 +3535,17 @@
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/DJWang.json",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
+		{
+            "key": "短剧屋",
+            "name": "短剧屋(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://www.djw5.com/w/{cateId}--------{catePg}---.html",
+                "分类": "全部$短剧#女频恋爱$nvpinlianai#现代都市$xiandaidushi#反转爽剧$fanzhuanshuangju#年代穿越$niandaichuanyue#古装仙侠$guzhuangxianxia#脑洞悬疑$naodongxuanyi#有声动漫$youshengdongman"
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
         {
             "key": "csp_游戏直播",
             "name": "游戏直播(py)",
