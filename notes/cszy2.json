@@ -1138,6 +1138,48 @@
                 "versionCode": "1000"
             }
         },
+		{
+            "key": "新腾极4k",
+            "name": "幽灵4k真4k-💥🔥好用",
+            "type": 3,
+            "api": "http://8.148.229.212:802/tianyun4k/drpy_libs/drpy2.min.js",
+            "ext": "http://8.148.229.212:802/幽灵4k/lib/幽灵4kTX.js"
+        },
+        {
+            "key": "芒果弹幕",
+            "name": "幽灵4k真4k-💥🔥牛逼",
+            "type": 3,
+            "api": "http://8.148.229.212:802/tianyun4k/drpy_libs/drpy2.min.js",
+            "ext": "http://8.148.229.212:802/幽灵4k/lib/幽灵4kMG.js"
+        },
+		{
+            "key": "羽雪",
+            "name": "羽雪(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/Applzxw.py",
+            "ext": "http://154.94.224.98:8762"
+        },
+		{
+            "key": "大",
+            "name": "💯幽灵4k〖羽雪〗💯",
+            "type": 3,
+            "api": "http://8.148.229.212:802/幽灵4k/lib/ppx.py",
+            "ext": "http://154.94.224.98:8762"
+        },
+		{
+            "key": "疯姿(fei)",
+            "name": "疯姿(fei)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/FeiApp.py",
+            "ext": "https://dmc.yy-fun.cc/feiapp"
+        },
+		{
+            "key": "jz",
+            "name": "💯幽灵4k〖疯姿〗💯",
+            "type": 3,
+            "api": "http://8.148.229.212:802/幽灵4k/lib/Fei.py",
+            "ext": "https://dmc.yy-fun.cc/feiapp"
+        },
         {
             "key": "呀哩4K(fei)",
             "name": "呀哩4K(fei)",
