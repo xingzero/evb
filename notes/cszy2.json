@@ -1145,6 +1145,20 @@
             "api": "http://8.148.229.212:802/tianyun4k/drpy_libs/drpy2.min.js",
             "ext": "http://8.148.229.212:802/幽灵4k/lib/幽灵4kTX.js"
         },
+		{
+            "key": "腾极",
+            "name": "腾极(js)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/lib4/drpy2.min.js",
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/幽灵4kTX.js"
+        },
+		{
+            "key": "芒果",
+            "name": "芒果MG(js)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/lib4/drpy2.min.js",
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/幽灵4kMG.js"
+        },
         {
             "key": "芒果弹幕",
             "name": "幽灵4k真4k-💥🔥牛逼",
