@@ -163,6 +163,24 @@
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
 		{
+            "key": "歪比巴卜",
+            "name": "歪比巴卜",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/Silent1566/OmniBox-Spider/main/影视/采集/歪比巴卜.js"
+        },
+		{
+            "key": "云播",
+            "name": "云播",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/Silent1566/OmniBox-Spider/main/影视/采集/TVB云播.js"
+        },
+		{
+            "key": "稀饭动漫",
+            "name": "稀饭动漫",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/Silent1566/OmniBox-Spider/main/动漫/稀饭动漫.js"
+        },
+		{
       "key": "CO4k",
       "name": "🍭co4K┃戮默",
       "type": 1,
