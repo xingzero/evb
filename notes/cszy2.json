@@ -156,6 +156,7 @@
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
+			"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
             "ext": {
                 "分类url": "https://jddzx.vip/vodshow/id/{cateId}/page/{catePg}.html",
                 "分类": "电影$dianying#剧集$juji#综艺$zongyi#动漫$dongman#短剧$duanju"
@@ -166,7 +167,61 @@
             "key": "歪比巴卜",
             "name": "歪比巴卜",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/Silent1566/OmniBox-Spider/main/影视/采集/歪比巴卜.js"
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/js/wbbb.js"
+        },
+		{
+            "key": "歪比巴卜2",
+            "name": "歪比巴卜2",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/aying-jie/c1/main/lib/ke/88.py"
+        },
+		{
+            "key": "天天影院",
+            "name": "天天影院",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/aying-jie/c1/main/lib/ke/77.py"
+        },
+		{
+            "key": "麦田55",
+            "name": "麦田55",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/aying-jie/c1/main/lib/ke/55.py"
+        },
+		{
+            "key": "努努66",
+            "name": "努努66",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/aying-jie/c1/main/lib/ke/66.py"
+        },
+		{
+            "key": "地段",
+            "name": "地段",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/aying-jie/c1/main/lib/ke/44.py"
+        },
+		{
+            "key": "袋鼠",
+            "name": "袋鼠",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/aying-jie/c1/main/lib/ke/33.py"
+        },
+		{
+            "key": "茶杯11",
+            "name": "茶杯11",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/aying-jie/c1/main/lib/ke/11.py"
+        },
+		{
+            "key": "茶杯22",
+            "name": "茶杯22",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/aying-jie/c1/main/lib/ke/22.py"
+        },
+		{
+            "key": "在线99",
+            "name": "在线99",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/aying-jie/c1/main/lib/ke/99.py"
         },
 		{
             "key": "云播",
