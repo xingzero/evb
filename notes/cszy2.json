@@ -229,13 +229,20 @@
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/Silent1566/OmniBox-Spider/main/影视/采集/TVB云播.js"
         },
-		{
-            "key": "奇迹",
-            "name": "奇迹(SP)",
+        {
+            "key": "qiji",
+            "name": "奇迹❤免扫4K",
             "type": 3,
-            "api": "csp_AppQi",
-            "ext": "https://pan.szfx.top/down.php/36bd674500507008e8ca7bf83f302d9b.txt|whosyoudaddy5477|122",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260515.png;md5;b81a5747f91e7169bdc7e3f68bd995e0"
+            "api": "https://pan.szfx.top/down.php/08343ea7d5d8d12da1c16f9ccf03040d.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "host": "https://pan.szfx.top/down.php/36bd674500507008e8ca7bf83f302d9b.txt",
+                "key": "whosyoudaddy5477",
+                "init": "V122",
+                "api": "2",
+                "ua": "okhttp/3.10.0"
+            }
         },
 		{
             "key": "看剧",
