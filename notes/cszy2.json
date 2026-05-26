@@ -158,6 +158,8 @@
             "quickSearch": 1,
 			"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
             "ext": {
+				"请求头": "User-Agent$MOBILE_UA",
+				"编码": "UTF-8",
                 "分类url": "https://jddzx.vip/vodshow/id/{cateId}/page/{catePg}.html",
                 "分类": "电影$dianying#剧集$juji#综艺$zongyi#动漫$dongman#短剧$duanju"
             },
@@ -179,7 +181,7 @@
             "key": "歪比巴卜",
             "name": "歪比巴卜",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/js/wbbb.js"
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/EasyXC/Easyox/main/js/wbbb.js"
         },
 		{
             "key": "歪比巴卜2",
@@ -239,7 +241,7 @@
             "key": "云播",
             "name": "云播",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/Silent1566/OmniBox-Spider/main/影视/采集/TVB云播.js"
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/Silent1566/OmniBox-Spider/main/影视/采集/云播.js"
         },
         {
             "key": "qiji",
@@ -274,7 +276,7 @@
             "name": "电影先生┃2K",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/xyqxbpq.jar",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/Easyox/main/jar/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1756,6 +1758,13 @@
             "api": "csp_Tvyb",
             "ext": "http://www.viptvb06.com",
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260515.png;md5;b81a5747f91e7169bdc7e3f68bd995e0"
+        },
+		{
+            "key": "TVB云播2",
+            "name": "TVB云播2(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/TVB云播.py",
+            "ext": "http://www.viptvb06.com
         },
         {
             "key": "csp_Jiaozi",
