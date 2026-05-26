@@ -164,6 +164,18 @@
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
 		{
+      "key": "毒舌影视",
+      "name": "🌀毒舌✨剧圈🌀",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/alantang1977/X/main/laozhang/%E6%AF%92%E8%88%8C%E5%BD%B1%E8%A7%86.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1,
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/alantang1977/X/main/jar/laozhang.jar"
+    },
+		{
             "key": "歪比巴卜",
             "name": "歪比巴卜",
             "type": 3,
