@@ -178,6 +178,24 @@
       "jar": "https://ghfast.top/https://raw.githubusercontent.com/alantang1977/X/main/jar/laozhang.jar"
     },
 		{
+            "key": "剧多",
+            "name": "剧多",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/vod/%E5%89%A7%E5%A4%9A%E5%A4%9A.js"
+        },
+				{
+            "key": "qqq",
+            "name": "qqq",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/vod/3Q%E5%BD%B1%E8%A7%86.js"
+        },
+				{
+            "key": "3qqq",
+            "name": "3qqq",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/vod/3q%E5%BD%B1%E8%A7%86-%E4%B8%8D%E5%A4%9C.js"
+        },
+		{
             "key": "歪比巴卜",
             "name": "歪比巴卜",
             "type": 3,
