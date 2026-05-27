@@ -181,19 +181,79 @@
             "key": "剧多",
             "name": "剧多",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/vod/%E5%89%A7%E5%A4%9A%E5%A4%9A.js"
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/vod/剧多多.js"
         },
-				{
+		{
+            "key": "剧圈圈",
+            "name": "剧圈圈",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/vod/剧圈圈.js"
+        },
+		{
             "key": "qqq",
             "name": "qqq",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/vod/3Q%E5%BD%B1%E8%A7%86.js"
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/vod/3Q影视.js"
         },
-				{
+		{
             "key": "3qqq",
             "name": "3qqq",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/vod/3q%E5%BD%B1%E8%A7%86-%E4%B8%8D%E5%A4%9C.js"
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/vod/3q影视-不夜.js"
+        },
+		{
+            "key": "爱追剧",
+            "name": "爱追剧",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/vod/爱追剧.js"
+        },
+		{
+            "key": "555影视",
+            "name": "555影视",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/vod/555影视.js"
+        },
+		{
+            "key": "快点播",
+            "name": "快点播",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/vod/快点播.js"
+        },
+		{
+            "key": "修罗影视",
+            "name": "修罗影视",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/vod/修罗影视.js"
+        },
+		{
+            "key": "枫叶影院",
+            "name": "枫叶影院",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/py/枫叶影院.py"
+        },
+		{
+            "key": "七味py",
+            "name": "七味py",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/py/七味.py"
+        },
+		{
+            "key": "心跳py",
+            "name": "心跳py",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/py/心跳.py"
+        },
+		{
+            "key": "4KVMpy",
+            "name": "4KVMpy",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/py/4KVM.py‎"
+        },
+		{
+            "key": "达达龟影院",
+            "name": "达达龟影院",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/py/达达龟影院.py‎"
         },
 		{
             "key": "歪比巴卜",
