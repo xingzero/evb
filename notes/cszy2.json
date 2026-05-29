@@ -163,163 +163,163 @@
                 "分类url": "https://jddzx.vip/vodshow/id/{cateId}/page/{catePg}.html",
                 "分类": "电影$dianying#剧集$juji#综艺$zongyi#动漫$dongman#短剧$duanju"
             },
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+            "jar": "https://github.tbedu.top/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
 		{
       "key": "毒舌影视",
       "name": "🌀毒舌✨剧圈🌀",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/alantang1977/X/main/laozhang/%E6%AF%92%E8%88%8C%E5%BD%B1%E8%A7%86.js",
+      "api": "https://github.tbedu.top/https://raw.githubusercontent.com/alantang1977/X/main/laozhang/%E6%AF%92%E8%88%8C%E5%BD%B1%E8%A7%86.js",
       "style": {
         "type": "rect",
         "ratio": 1.33
       },
       "changeable": 1,
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/alantang1977/X/main/jar/laozhang.jar"
+      "jar": "https://github.tbedu.top/https://raw.githubusercontent.com/alantang1977/X/main/jar/laozhang.jar"
     },
 		{
             "key": "剧多",
             "name": "剧多",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/vod/剧多多.js"
+            "api": "https://github.tbedu.top/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/vod/剧多多.js"
         },
 		{
             "key": "剧圈圈",
             "name": "剧圈圈",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/vod/剧圈圈.js"
+            "api": "https://github.tbedu.top/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/vod/剧圈圈.js"
         },
 		{
             "key": "qqq",
             "name": "qqq",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/vod/3Q影视.js"
+            "api": "https://github.tbedu.top/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/vod/3Q影视.js"
         },
 		{
             "key": "3qqq",
             "name": "3qqq",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/vod/3q影视-不夜.js"
+            "api": "https://github.tbedu.top/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/vod/3q影视-不夜.js"
         },
 		{
             "key": "爱追剧",
             "name": "爱追剧",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/vod/爱追剧.js"
+            "api": "https://github.tbedu.top/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/vod/爱追剧.js"
         },
 		{
             "key": "555影视",
             "name": "555影视",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/vod/555影视.js"
+            "api": "https://github.tbedu.top/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/vod/555影视.js"
         },
 		{
             "key": "快点播",
             "name": "快点播",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/vod/快点播.js"
+            "api": "https://github.tbedu.top/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/vod/快点播.js"
         },
 		{
             "key": "修罗影视",
             "name": "修罗影视",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/vod/修罗影视.js"
+            "api": "https://github.tbedu.top/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/vod/修罗影视.js"
         },
 		{
             "key": "枫叶影院",
             "name": "枫叶影院",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/py/枫叶影院.py"
+            "api": "https://github.tbedu.top/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/py/枫叶影院.py"
         },
 		{
             "key": "七味py",
             "name": "七味py",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/py/七味.py"
+            "api": "https://github.tbedu.top/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/py/七味.py"
         },
 		{
             "key": "心跳py",
             "name": "心跳py",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/py/心跳.py"
+            "api": "https://github.tbedu.top/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/py/心跳.py"
         },
 		{
             "key": "4KVMpy",
             "name": "4KVMpy",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/py/4KVM.py‎"
+            "api": "https://github.tbedu.top/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/py/4KVM.py‎"
         },
 		{
             "key": "达达龟影院",
             "name": "达达龟影院",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/py/达达龟影院.py‎"
+            "api": "https://github.tbedu.top/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/py/达达龟影院.py‎"
         },
 		{
             "key": "歪比巴卜",
             "name": "歪比巴卜",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/EasyXC/Easyox/main/js/wbbb.js"
+            "api": "https://github.tbedu.top/https://raw.githubusercontent.com/EasyXC/Easyox/main/js/wbbb.js"
         },
 		{
             "key": "歪比巴卜2",
             "name": "歪比巴卜2",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/aying-jie/c1/main/lib/ke/88.py"
+            "api": "https://github.tbedu.top/https://raw.githubusercontent.com/aying-jie/c1/main/lib/ke/88.py"
         },
 		{
             "key": "天天影院",
             "name": "天天影院",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/aying-jie/c1/main/lib/ke/77.py"
+            "api": "https://github.tbedu.top/https://raw.githubusercontent.com/aying-jie/c1/main/lib/ke/77.py"
         },
 		{
             "key": "麦田55",
             "name": "麦田55",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/aying-jie/c1/main/lib/ke/55.py"
+            "api": "https://github.tbedu.top/https://raw.githubusercontent.com/aying-jie/c1/main/lib/ke/55.py"
         },
 		{
             "key": "努努66",
             "name": "努努66",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/aying-jie/c1/main/lib/ke/66.py"
+            "api": "https://github.tbedu.top/https://raw.githubusercontent.com/aying-jie/c1/main/lib/ke/66.py"
         },
 		{
             "key": "地段",
             "name": "地段",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/aying-jie/c1/main/lib/ke/44.py"
+            "api": "https://github.tbedu.top/https://raw.githubusercontent.com/aying-jie/c1/main/lib/ke/44.py"
         },
 		{
             "key": "袋鼠",
             "name": "袋鼠",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/aying-jie/c1/main/lib/ke/33.py"
+            "api": "https://github.tbedu.top/https://raw.githubusercontent.com/aying-jie/c1/main/lib/ke/33.py"
         },
 		{
             "key": "茶杯11",
             "name": "茶杯11",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/aying-jie/c1/main/lib/ke/11.py"
+            "api": "https://github.tbedu.top/https://raw.githubusercontent.com/aying-jie/c1/main/lib/ke/11.py"
         },
 		{
             "key": "茶杯22",
             "name": "茶杯22",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/aying-jie/c1/main/lib/ke/22.py"
+            "api": "https://github.tbedu.top/https://raw.githubusercontent.com/aying-jie/c1/main/lib/ke/22.py"
         },
 		{
             "key": "在线99",
             "name": "在线99",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/aying-jie/c1/main/lib/ke/99.py"
+            "api": "https://github.tbedu.top/https://raw.githubusercontent.com/aying-jie/c1/main/lib/ke/99.py"
         },
 		{
             "key": "云播",
             "name": "云播",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/Silent1566/OmniBox-Spider/main/影视/采集/云播.js"
+            "api": "https://github.tbedu.top/https://raw.githubusercontent.com/Silent1566/OmniBox-Spider/main/影视/采集/云播.js"
         },
         {
             "key": "qiji",
@@ -340,7 +340,7 @@
             "key": "看剧",
             "name": "看剧(py)",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/Applzxw.py",
+            "api": "https://github.tbedu.top/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/Applzxw.py",
             "ext": "http://43.248.117.123:4680"
         },
 		{
@@ -531,7 +531,7 @@
             "key": "稀饭动漫",
             "name": "稀饭动漫",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/Silent1566/OmniBox-Spider/main/动漫/稀饭动漫.js"
+            "api": "https://github.tbedu.top/https://raw.githubusercontent.com/Silent1566/OmniBox-Spider/main/动漫/稀饭动漫.js"
         },
 		{
       "key": "CO4k",
@@ -1026,7 +1026,7 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "https://vv.229d.cn|8888888888888888",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260313.png;md5;9c8e45f60d3d413d8b140ec21811deb0"
+            "jar": "https://github.tbedu.top/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260313.png;md5;9c8e45f60d3d413d8b140ec21811deb0"
         },
 		{	
             "key": "金牌3",
@@ -1188,7 +1188,7 @@
             "type": 3,
             "api": "csp_App99",
             "ext": {
-                "host": "http://124.221.3.182:19987/app/bn",
+                "host": "http://124.221.3.182:19987",
                 "appkey": "d1f0c269eab74d93821fffc9befdbbba",
                 "versionName": "1.2.0",
                 "name": "剧圈圈",
@@ -1222,7 +1222,8 @@
             "type": 3,
             "api": "csp_App99",
             "ext": {
-                "host": "http://117.50.200.113:19987/app/bn",
+                "host": "http://117.50.200.113:19987",
+				"LoginPath": "/app/log",
                 "appkey": "040f9b1bc5e942569b5c3e63943306ab",
                 "versionName": "4.3.1",
                 "name": "顾我追剧",
@@ -1529,15 +1530,15 @@
             "key": "腾极",
             "name": "腾极(js)",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/lib4/drpy2.min.js",
-            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/幽灵4kTX.js"
+            "api": "https://github.tbedu.top/https://raw.githubusercontent.com/xingzero/eva/main/notes/lib4/drpy2.min.js",
+            "ext": "https://github.tbedu.top/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/幽灵4kTX.js"
         },
 		{
             "key": "芒果",
             "name": "芒果MG(js)",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/lib4/drpy2.min.js",
-            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/幽灵4kMG.js"
+            "api": "https://github.tbedu.top/https://raw.githubusercontent.com/xingzero/eva/main/notes/lib4/drpy2.min.js",
+            "ext": "https://github.tbedu.top/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/幽灵4kMG.js"
         },
         {
             "key": "芒果弹幕",
@@ -1550,7 +1551,7 @@
             "key": "羽雪",
             "name": "羽雪(py)",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/Applzxw.py",
+            "api": "https://github.tbedu.top/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/Applzxw.py",
             "ext": "http://154.94.224.98:8762"
         },
 		{
@@ -1837,20 +1838,20 @@
             "type": 3,
             "api": "csp_Tvyb",
             "ext": "http://www.viptvb06.com",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260515.png;md5;b81a5747f91e7169bdc7e3f68bd995e0"
+            "jar": "https://github.tbedu.top/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260515.png;md5;b81a5747f91e7169bdc7e3f68bd995e0"
         },
 		{
             "key": "TVB云播2",
             "name": "TVB云播2(py)",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/TVB云播.py",
+            "api": "https://github.tbedu.top/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/TVB云播.py",
             "ext": "http://app.hktvyb.cc"
         },
 		{
             "key": "TVB云播3",
             "name": "TVB云播3(py)",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/TVB云播.py",
+            "api": "https://github.tbedu.top/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/TVB云播.py",
             "ext": "http://www.viptvb06.com"
         },
         {
@@ -2068,7 +2069,7 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260330.jpg;md5;59bcc1aa8c1ecf7d08a282ac63705ab3"
+            "jar": "https://github.tbedu.top/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260330.jpg;md5;59bcc1aa8c1ecf7d08a282ac63705ab3"
         },
 		{
             "key": "驿站2",
@@ -2452,7 +2453,7 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "https://miget-1313189639.cos.ap-guangzhou.myqcloud.com/mifun.txt|GETMIFUNGEIMIFUN",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260330.jpg;md5;59bcc1aa8c1ecf7d08a282ac63705ab3"
+            "jar": "https://github.tbedu.top/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260330.jpg;md5;59bcc1aa8c1ecf7d08a282ac63705ab3"
         },
 		{
             "key": "米饭2(SP)",
@@ -2460,7 +2461,7 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "https://getcn.mymifun.com|GETMIFUNGEIMIFUN",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260330.jpg;md5;59bcc1aa8c1ecf7d08a282ac63705ab3"
+            "jar": "https://github.tbedu.top/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260330.jpg;md5;59bcc1aa8c1ecf7d08a282ac63705ab3"
         },
         {
             "key": "囧次元(SP)",
