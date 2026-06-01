@@ -528,6 +528,50 @@
             }
         },
 		{
+            "key": "漫堂",
+            "name": "漫堂(SP)",
+            "type": 3,
+            "api": "csp_AppQi",
+            "ext": "http://110.42.67.221:6802|1vi33w2pAHEm8Y6U|122",
+            "jar": "https://github.tbedu.top/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260515.png;md5;b81a5747f91e7169bdc7e3f68bd995e0"
+        },
+		{
+            "key": "幸运",
+            "name": "幸运(SP)",
+			"type": 3,
+            "api": "csp_AppQi",
+            "ext": "http://107.151.244.162:6622|wNCwbXzr0Bm6cS2C|122",
+            "jar": "https://github.tbedu.top/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260515.png;md5;b81a5747f91e7169bdc7e3f68bd995e0"
+        },
+		{
+            "key": "枫叶2",
+            "name": "枫叶2(SP)",
+			"type": 3,
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py",
+            "jar": "https://github.tbedu.top/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260515.png;md5;b81a5747f91e7169bdc7e3f68bd995e0"
+        },
+		{
+            "key": "火云",
+            "name": "火云(SP)",
+			"type": 3,
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/hy.js",
+            "jar": "https://github.tbedu.top/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260515.png;md5;b81a5747f91e7169bdc7e3f68bd995e0"
+        },
+		{
+            "key": "八戒2",
+            "name": "八戒2(SP)",
+			"type": 3,
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/8j.py",
+            "jar": "https://github.tbedu.top/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260515.png;md5;b81a5747f91e7169bdc7e3f68bd995e0"
+        },
+		{
+            "key": "西瓜3",
+            "name": "西瓜3(SP)",
+			"type": 3,
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/xgsp.js",
+            "jar": "https://github.tbedu.top/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260515.png;md5;b81a5747f91e7169bdc7e3f68bd995e0"
+        },
+		{
             "key": "稀饭动漫",
             "name": "稀饭动漫",
             "type": 3,
