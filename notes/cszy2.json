@@ -4714,6 +4714,12 @@
             "type": 1,
             "api": "http://tyyszy.com/api.php/provide/vod/"
         },
+		{
+            "key": "天涯",
+            "name": "天涯(xml)",
+            "type": 1,
+            "api": "https://tyyszyapi.com/api.php/provide/vod/?ac=list"
+        },
         {
             "key": "旺旺短剧",
             "name": "旺旺短剧(xml)",
