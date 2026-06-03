@@ -2455,7 +2455,8 @@
             "key": "番薯2",
             "name": "番薯2(SP)",
             "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/yuanwangokk-1/drpy-node/main/drpy-node/spider/js/番薯动漫[漫].js"
+			"api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/lib4/drpy2.min.js",
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/yuanwangokk-1/drpy-node/main/drpy-node/spider/js/番薯动漫[漫].js"
         },
         {
             "key": "曼波(SP)",
