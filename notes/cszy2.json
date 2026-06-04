@@ -4727,6 +4727,70 @@
             "type": 1,
             "api": "https://tyyszyapi.com/api.php/provide/vod/?ac=list"
         },
+		{
+            "key": "天涯2",
+            "name": "天涯2(xml)",
+            "type": 0,
+            "api": "https://ty.tyyszy5.com/api.php/provide/vod/?ac=list"
+        },
+		{
+            "key": "天涯3",
+            "name": "天涯3(xml)",
+            "type": 0,
+            "api": "https://tyyszyapi.com/api.php/provide/vod/at/xml/?ac=list"
+        },
+		{
+            "key": "牛牛",
+            "name": "牛牛(xml)",
+            "type": 1,
+            "api": "https://api.niuniuzy.me/api.php/provide/vod"
+        },
+		{
+            "key": "✨饭搭子影院✨",
+            "name": "✨饭搭子影院✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://github.tbedu.top/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"",
+            "ext": {
+                "作者": ".",
+                "站名": "饭搭子影视",
+                "主页url": "https://fdzys.com/",
+                "分类url": "https://fdzys.com/{cateId}?page={catePg}",
+                "分类数组": "p:div[class*=\"menu\"] a[不包含:首页]",
+                "分类标题": "p:->text",
+                "分类ID": "/&&\"",
+                "数组": "p:div[class*=\"myui-vodbox-content\"] a",
+                "标题": "p:img->alt",
+                "副标题": "p:div[class*=\"text-overflow\"]->text",
+                "图片": "p:img->data-src",
+                "链接": "p:a->href",
+                "影片年代": "空",
+                "影片类型": "p:div[class*=\"tags text-overflow\"]->text[替换:剧情:>>空]",
+                "状态": "p:div[class*=\"score\"]->text+(+p:div[class*=\"item-bottom\"]->text+)",
+                "导演": "p:div[class*=\"director text-overflow\"]->text[含序号:1][替换:导演:>>空]",
+                "主演": "p:div[class*=\"director text-overflow\"]->text[含序号:2][替换:主演:>>空]",
+                "简介": "p:div[class*=\"vod-content\"]->text",
+                "线路数组": "p:div[class=\"vod-lists\"] li",
+                "线路标题": "p:a->text",
+                "播放数组": "p:div[class*=\"lists-box\"]",
+                "播放列表": "p:a",
+                "播放标题": "p:a->text",
+                "播放链接": "p:a->href"
+            }
+        },
+        {
+            "key": "HGT影视",
+            "name": "HGT影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "请求头": "手机",
+                "简介": "小林子为您剧情介绍:+col-pd\">&&</p>",
+                "分类url": "https://hgtvtv.com/video/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}/",
+                "分类": "短剧$duanju#电视剧$lianxuju#电影$dianying#动漫$dongman#综艺$zongyi"
+            },
+			"jar": "https://github.tbedu.top/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
         {
             "key": "旺旺短剧",
             "name": "旺旺短剧(xml)",
