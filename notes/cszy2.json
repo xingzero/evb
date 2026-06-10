@@ -2468,10 +2468,9 @@
         },
 		{
             "key": "番薯3",
-            "name": "番薯3(SP)",
-            "type": 3,
-			"api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/lib4/drpy2.min.js",
-            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/jak0099/dr/refs/heads/master/js/动漫/番薯动漫[漫].js"
+            "name": "番薯3(xml)",
+            "type": 1,
+			"api": "http://www.fsdm02.com/api.php/provide/vod/?ac=list"
         },
         {
             "key": "曼波(SP)",
