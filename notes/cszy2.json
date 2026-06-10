@@ -2472,6 +2472,12 @@
             "type": 1,
 			"api": "http://www.fsdm02.com/api.php/provide/vod/?ac=list"
         },
+		{
+            "key": "快车",
+            "name": "快车",
+            "type": 1,
+            "api": "https://caiji.kuaichezy.org/api.php/provide/vod/"
+        },
         {
             "key": "曼波(SP)",
             "name": "曼波(SP)",
