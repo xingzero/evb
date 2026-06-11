@@ -2474,6 +2474,19 @@
 			"api": "https://dm.fsdm02.com/api.php/provide/vod/?ac=list"
         },
 		{
+            "key": "番薯4",
+            "name": "番薯4(xml)",
+            "type": 3,
+			"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+			"api": "csp_XBPQ",
+			"ext": {
+                "分类":"TV番剧$1#国产动漫$22#剧场版$3#4K分区$20#欧美动漫$21",
+				"分类url":"https://dm.fsdm02.com/vodshow/{cateid}--{by}---{letter}---{catepg}---{yaer}.html"   
+            },
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        },
+		{
             "key": "快车",
             "name": "快车",
             "type": 1,
