@@ -2493,6 +2493,12 @@
             "ext": "https://fastgit.cc/https://raw.githubusercontent.com/woshishiq1/hipy-drpy2/refs/heads/main/jaychouqq/yingshi/js7/番薯动漫[漫].js"
         },
 		{
+            "key": "TVB云播py",
+            "name": "TVB云播py",
+            "type": 3,
+			"api": "https://fastgit.cc/https://raw.githubusercontent.com/leilingzero/hipy-drpy2/main/jaychouqq/yingshi/py8/TVB云播.py"
+        },
+		{
             "key": "快车",
             "name": "快车",
             "type": 1,
