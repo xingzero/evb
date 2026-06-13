@@ -2486,6 +2486,13 @@
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
 		{
+            "key": "番薯5",
+            "name": "番薯5(SP)",
+            "type": 3,
+			"api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/lib4/drpy2.min.js",
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/woshishiq1/hipy-drpy2/refs/heads/main/jaychouqq/yingshi/js7/番薯动漫[漫].js"
+        },
+		{
             "key": "快车",
             "name": "快车",
             "type": 1,
