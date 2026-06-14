@@ -2481,7 +2481,7 @@
 			"api": "csp_XBPQ",
 			"ext": {
                 "分类":"TV番剧$1#国产动漫$22#剧场版$3#4K分区$20#欧美动漫$21",
-				"分类url":"https://dm.fsdm02.com/vodshow/{cateid}--{by}---{letter}---{catepg}---{yaer}.html"   
+				"分类url":"https://dm.fsdm02.com/vodshow/{cateid}--------{catepg}---.html"   
             },
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
@@ -2491,6 +2491,20 @@
             "type": 3,
 			"api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/lib4/drpy2.min.js",
             "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/番薯动漫3.js"
+        },
+		{
+            "key": "番薯6",
+            "name": "番薯6(SP)",
+            "type": 3,
+			"api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/lib4/drpy2.min.js",
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/番薯动漫2.js"
+        },
+		{
+            "key": "番薯7",
+            "name": "番薯7(SP)",
+            "type": 3,
+			"api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/lib4/drpy2.min.js",
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/番薯动漫.js"
         },
 		{
             "key": "TVB云播py",
