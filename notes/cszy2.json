@@ -2536,6 +2536,30 @@
             "ext": "http://39.105.18.5:5565/api.php/app/"
         },
 		{
+            "key": "VIP影视",
+            "name": "VIP影视(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/hogo18/box/main/json/VIP影视.json",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+		{
+            "key": "4K影视(PQ)",
+            "name": "4K影视(PQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/hogo18/box/main/json/4kvm.json",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+		{
+            "key": "可可影视(PQ)",
+            "name": "可可影视(PQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/hogo18/box/main/json/keke.json",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+		{
             "key": "快车",
             "name": "快车",
             "type": 1,
