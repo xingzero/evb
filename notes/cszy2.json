@@ -2470,7 +2470,7 @@
             "key": "番薯3",
             "name": "番薯3(xml)",
             "type": 1,
-			"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+			"timeout": 30,
 			"api": "https://dm.fsdm02.com/api.php/provide/vod/?ac=list"
         },
 		{
