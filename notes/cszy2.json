@@ -2507,6 +2507,14 @@
             "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/js/番薯动漫.js"
         },
 		{
+            "key": "番薯8",
+            "name": "番薯8(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://yoapp.bytegooty.com|N4yj7l7xKxHF4*gz",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251225.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
+        },
+		{
             "key": "TVB云播py",
             "name": "TVB云播py",
             "type": 3,
