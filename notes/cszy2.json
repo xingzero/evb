@@ -1919,7 +1919,7 @@
             "type": 3,
             "api": "csp_Xlys",
             "ext": "https://www.xlysw.ggff.net",
-            "jar": "https://img2.gelonghui.com/library/b81a5-c1c17953-7221-4d19-bad2-307960c010f0.png;md5;b81a5747f91e7169bdc7e3f68bd995e0"
+            "jar": "https://img2.gelonghui.com/library/e2693-9aa941a0-f96a-40c2-ac23-e6af358d19a7.png;md5;e2693c58ebc58abecc7282b721db79ca"
         },
 		{
             "key": "csp_Xlys2",
@@ -1927,7 +1927,43 @@
             "type": 3,
             "api": "csp_Xlys",
             "ext": "https://www.xlysw.ggff.net",
-            "jar": "https://s3plus.meituan.net/opapisdk/op_ticket_1_5677168484_1780975987233_brjw1tyY.zip;md5;11bb2267269eec9d5c2c19aee9ac8d4f"
+            "jar": "https://zl.wpscdn.cn/2026/06/12/space_img/b7934f7a-4520-4180-bee6-cf8edfab64be.png;md5;5d388b3e0176de94a63e8c85dff7321a"
+        },
+		{
+            "key": "湘漓",
+            "name": "湘漓(fox)",
+            "type": 3,
+            "api": "csp_Appfox",
+            "ext": "https://ledayy.com",
+            "jar": "https://zl.wpscdn.cn/2026/06/12/space_img/b7934f7a-4520-4180-bee6-cf8edfab64be.png;md5;5d388b3e0176de94a63e8c85dff7321a"
+        },
+        {
+            "key": "嘉禾",
+            "name": "嘉禾(fox)",
+            "api": "csp_Appfox",
+            "ext": "https://www.baidukuaiy.top",
+            "jar": "https://zl.wpscdn.cn/2026/06/12/space_img/b7934f7a-4520-4180-bee6-cf8edfab64be.png;md5;5d388b3e0176de94a63e8c85dff7321a"
+        },
+        {
+            "key": "猎鹰",
+            "name": "猎鹰(fox)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
+            "ext": "https://444421.xyz"
+        },
+        {
+            "key": "玫瑰",
+            "name": "玫瑰(fox)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
+            "ext": "http://43.251.227.45:3688"
+        },
+        {
+            "key": "峥嵘",
+            "name": "峥嵘(fox)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
+            "ext": "https://api2026.hboqy.cn"
         },
         {
             "key": "csp_Qiyou",
