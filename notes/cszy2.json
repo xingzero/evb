@@ -1933,18 +1933,24 @@
             "key": "湘漓",
             "name": "湘漓(fox)",
             "type": 3,
-            "api": "csp_Appfox",
-            "ext": "https://ledayy.com",
-            "jar": "https://zl.wpscdn.cn/2026/06/12/space_img/b7934f7a-4520-4180-bee6-cf8edfab64be.png;md5;5d388b3e0176de94a63e8c85dff7321a"
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
+            "ext": "https://ledayy.com"
         },
         {
             "key": "嘉禾",
             "name": "嘉禾(fox)",
-            "api": "csp_Appfox",
-            "ext": "https://www.baidukuaiy.top",
-            "jar": "https://zl.wpscdn.cn/2026/06/12/space_img/b7934f7a-4520-4180-bee6-cf8edfab64be.png;md5;5d388b3e0176de94a63e8c85dff7321a"
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
+            "ext": "https://www.baidukuaiy.top"
         },
         {
+            "key": "峥嵘",
+            "name": "峥嵘(fox)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
+            "ext": "https://api2026.hboqy.cn"
+        },
+		{
             "key": "猎鹰",
             "name": "猎鹰(fox)",
             "type": 3,
@@ -1957,13 +1963,6 @@
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
             "ext": "http://43.251.227.45:3688"
-        },
-        {
-            "key": "峥嵘",
-            "name": "峥嵘(fox)",
-            "type": 3,
-            "api": "https://fastgit.cc/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
-            "ext": "https://api2026.hboqy.cn"
         },
         {
             "key": "csp_Qiyou",
