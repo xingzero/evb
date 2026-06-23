@@ -3709,6 +3709,12 @@
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/喜马拉雅2.py"
         },
+		{
+            "key": "喜马拉雅2",
+            "name": "喜马拉雅2(js)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/main/yingshi/js7/xmly.js"
+        },
         {
             "key": "csp_xp_老王",
             "name": "老王(XPF)",
