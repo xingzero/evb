@@ -150,6 +150,14 @@
             "changeable": 1
         },
 		{
+            "key": "剧集搜",
+            "name": "剧集搜(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/s14685/tv/main/js/剧集搜.json",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+		{
             "key": "剧多多",
             "name": "剧多多(XBPQ)",
             "type": 3,
