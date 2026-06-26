@@ -158,6 +158,17 @@
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
 		{
+			"key":"23HKTV",
+			"name":"23HKTV",
+			"type": 3,
+			"api":"csp_XBPQ",
+			"ext": {
+				"分类url":"https://www.123hktv.com/list/{cateId}-{catePg}.html",
+				"分类":"电影$1#连续剧$2#综艺$3#动漫$4#纪录片$23"
+			},
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+		},
+		{
             "key": "剧多多",
             "name": "剧多多(XBPQ)",
             "type": 3,
