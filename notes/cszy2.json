@@ -1229,13 +1229,12 @@
         },
         {
             "key": "咕噜99",
-            "name": "咕噜(SP)",
+            "name": "咕噜99(SP)",
             "type": 3,
             "api": "csp_App99",
             "ext": {
-                "host": "http://103.45.132.22:19987",
-                "LoginPath": "/app/bn/app/log",
-				"version": "0b4328287a5d953e",
+                "host": "http://103.45.132.22:22668/app/bn",
+                "LoginPath": "/app/log",
                 "appkey": "d1f0c269eab74d93821fffc9befdbbba",
                 "versionName": "1.9.5",
                 "name": "咕噜咕噜",
