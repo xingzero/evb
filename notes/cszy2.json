@@ -641,6 +641,14 @@
             "jar": "https://img.51shazhu.com/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260629/LKSE/0X0/06291651.png;md5;5a5c64f87f0b0066919fa9b499912e4e"
         },
         {
+            "key": "爱看影院",
+            "name": "爱看影院(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/main/yingshi/json1/爱看影院.json",
+            "jar": "https://img.51shazhu.com/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260629/LKSE/0X0/06291651.png;md5;5a5c64f87f0b0066919fa9b499912e4e"
+        },
+        {
             "key": "CO4k",
             "name": "🍭co4K┃戮默",
             "type": 1,
