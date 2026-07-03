@@ -591,10 +591,54 @@
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260515.png;md5;b81a5747f91e7169bdc7e3f68bd995e0"
         },
 		{
-            "key": "稀饭动漫",
+            "key": "动漫",
             "name": "稀饭动漫",
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/Silent1566/OmniBox-Spider/main/动漫/稀饭动漫.js"
+        },
+		{
+            "key": "稀饭动漫2",
+            "name": "稀饭动漫2",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/main/yingshi/py8/稀饭动漫.py"
+        },
+		{
+            "key": "木兮2",
+            "name": "木兮2",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/main/yingshi/py8/木兮.py"
+        },
+		{
+            "key": "4KVM2",
+            "name": "4KVM2",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/main/yingshi/py8/4KVM.py"
+        },
+		{
+            "key": "嗷呜",
+            "name": "嗷呜",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/main/yingshi/py8/嗷呜动漫.py"
+        }
+		{
+            "key": "毒蛇",
+            "name": "毒蛇",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/main/yingshi/py8/毒蛇.py"
+        },
+		{
+            "key": "瓜娃子",
+            "name": "瓜娃子",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/main/yingshi/py8/瓜娃子.py"
+        },
+		{
+            "key": "天鹅",
+            "name": "天鹅(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/XBPQ/天鹅影视.json",
+            "jar": "https://img.51shazhu.com/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260629/LKSE/0X0/06291651.png;md5;5a5c64f87f0b0066919fa9b499912e4e"
         },
 		{
       "key": "CO4k",
