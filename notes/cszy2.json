@@ -1933,7 +1933,7 @@
             "ext": "http://ziyuncms.feifan12.xyz/api.php/v1.vod"
         },
         {
-            "key": "粤漫(js)",
+            "key": "(js)",
             "name": "粤漫(js)",
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/lib4/drpy2.min.js",
@@ -3783,6 +3783,18 @@
             "name": "喜马拉雅2(js)",
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/main/yingshi/js7/xmly.js"
+        },
+        {
+            "key": "百度短剧",
+            "name": "百度短剧(js)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/main/yingshi/js7/bddj.js"
+        },
+        {
+            "key": "喵物次元",
+            "name": "喵物次元(js)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/main/yingshi/js7/mwcy.js"
         },
         {
             "key": "csp_xp_老王",
