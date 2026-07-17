@@ -2929,18 +2929,25 @@
             "name": "短剧(SP)",
             "type": 3,
             "api": "csp_DuanJu",
-            "jar": "https://qn.fqcdn.cn/666666666666666666666666/20260710173636681007-vip.jpg;md5;03b5cc34c0ac0b72c36a7c9e31a8577e"
+            "jar": "https://file.icve.com.cn/file_doc/246/25/3D9067228C9E62839E438E9E6B6A5AF8.jpg;md5;3d9067228c9e62839e438e9e6b6a5af8"
         },
         {
             "key": "csp_Duboku",
             "name": "独播(SP)",
             "type": 3,
             "api": "csp_Duboku",
-            "jar": "https://qn.fqcdn.cn/666666666666666666666666/20260710173636681007-vip.jpg;md5;03b5cc34c0ac0b72c36a7c9e31a8577e"
+            "jar": "https://file.icve.com.cn/file_doc/246/25/3D9067228C9E62839E438E9E6B6A5AF8.jpg;md5;3d9067228c9e62839e438e9e6b6a5af8"
         },
         {
             "key": "csp_HanjuK",
             "name": "韩剧看(SP)",
+            "type": 3,
+            "api": "csp_HanjuK",
+            "jar": "https://file.icve.com.cn/file_doc/246/25/3D9067228C9E62839E438E9E6B6A5AF8.jpg;md5;3d9067228c9e62839e438e9e6b6a5af8"
+        },
+                {
+            "key": "csp_HanjuK2",
+            "name": "韩剧看2(SP)",
             "type": 3,
             "api": "csp_HanjuK",
             "jar": "https://qn.fqcdn.cn/666666666666666666666666/20260710173636681007-vip.jpg;md5;03b5cc34c0ac0b72c36a7c9e31a8577e"
@@ -2951,14 +2958,28 @@
             "type": 3,
             "api": "csp_Xlys",
             "ext": "https://www.xlysw.ggff.net",
-            "jar": "https://qn.fqcdn.cn/666666666666666666666666/20260710173636681007-vip.jpg;md5;03b5cc34c0ac0b72c36a7c9e31a8577e"
+            "jar": "https://file.icve.com.cn/file_doc/246/25/3D9067228C9E62839E438E9E6B6A5AF8.jpg;md5;3d9067228c9e62839e438e9e6b6a5af8"
         },
         {
             "key": "csp_FreeOk",
             "name": "Freeok(SP)",
             "type": 3,
             "api": "csp_FreeOk",
-            "jar": "https://qn.fqcdn.cn/666666666666666666666666/20260710173636681007-vip.jpg;md5;03b5cc34c0ac0b72c36a7c9e31a8577e"
+            "jar": "https://file.icve.com.cn/file_doc/246/25/3D9067228C9E62839E438E9E6B6A5AF8.jpg;md5;3d9067228c9e62839e438e9e6b6a5af8"
+        },
+        {
+            "key": "csp_HemaDJ",
+            "name": "河马短剧(SP)",
+            "type": 3,
+            "api": "csp_HemaDJ",
+            "jar": "https://file.icve.com.cn/file_doc/246/25/3D9067228C9E62839E438E9E6B6A5AF8.jpg;md5;3d9067228c9e62839e438e9e6b6a5af8"
+        },
+        {
+            "key": "csp_HeMa",
+            "name": "荷马(SP)",
+            "type": 3,
+            "api": "csp_HeMa",
+            "jar": "https://file.icve.com.cn/file_doc/246/25/3D9067228C9E62839E438E9E6B6A5AF8.jpg;md5;3d9067228c9e62839e438e9e6b6a5af8"
         },
         {
             "key": "csp_Qiyou2",
@@ -2966,6 +2987,13 @@
             "type": 3,
             "api": "csp_Qiyou",
             "jar": "https://qn.fqcdn.cn/666666666666666666666666/20260710173636681007-vip.jpg;md5;03b5cc34c0ac0b72c36a7c9e31a8577e"
+        },
+        {
+            "key": "csp_Qiyou3",
+            "name": "奇优3(SP)",
+            "type": 3,
+            "api": "csp_Qiyou",
+            "jar": "https://file.icve.com.cn/file_doc/246/25/3D9067228C9E62839E438E9E6B6A5AF8.jpg;md5;3d9067228c9e62839e438e9e6b6a5af8"
         },
         {
             "key": "csp_Living",
@@ -2983,7 +3011,7 @@
             "api": "csp_Music",
             "searchable": 0,
             "quickSearch": 0,
-            "jar": "https://v0-i47p.5588888.xyz/api/v3/file/get/42092/1127.jpg?sign=oI93mx5ILT-Ri0JvLSRhxffxAROAzIgVtdNIseX58kg%3D%3A0;md5;977a7ec67260a223a5763ee50c685f8f"
+            "jar": "https://file.icve.com.cn/file_doc/246/25/3D9067228C9E62839E438E9E6B6A5AF8.jpg;md5;3d9067228c9e62839e438e9e6b6a5af8"
         },
         {
             "key": "csp_Music2",
@@ -2993,7 +3021,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "ext": "http://www.qeecc.com",
-            "jar": "https://v0-i47p.5588888.xyz/api/v3/file/get/42092/1127.jpg?sign=oI93mx5ILT-Ri0JvLSRhxffxAROAzIgVtdNIseX58kg%3D%3A0;md5;977a7ec67260a223a5763ee50c685f8f"
+            "jar": "https://file.icve.com.cn/file_doc/246/25/3D9067228C9E62839E438E9E6B6A5AF8.jpg;md5;3d9067228c9e62839e438e9e6b6a5af8"
         },
         {
             "key": "csp_Qfeng",
@@ -3002,7 +3030,14 @@
             "api": "csp_Qfeng",
             "searchable": 0,
             "quickSearch": 0,
-            "jar": "https://v0-i47p.5588888.xyz/api/v3/file/get/42092/1127.jpg?sign=oI93mx5ILT-Ri0JvLSRhxffxAROAzIgVtdNIseX58kg%3D%3A0;md5;977a7ec67260a223a5763ee50c685f8f"
+            "jar": "https://file.icve.com.cn/file_doc/246/25/3D9067228C9E62839E438E9E6B6A5AF8.jpg;md5;3d9067228c9e62839e438e9e6b6a5af8"
+        },
+        {
+            "key": "csp_Kugou",
+            "name": "kugou(SP)",
+            "type": 3,
+            "api": "csp_Kugou",
+            "jar": "https://file.icve.com.cn/file_doc/246/25/3D9067228C9E62839E438E9E6B6A5AF8.jpg;md5;3d9067228c9e62839e438e9e6b6a5af8"
         },
         {
             "key": "csp_BookTing",
