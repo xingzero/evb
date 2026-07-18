@@ -3012,6 +3012,23 @@
             "jar": "https://file.icve.com.cn/file_doc/246/25/3D9067228C9E62839E438E9E6B6A5AF8.jpg;md5;3d9067228c9e62839e438e9e6b6a5af8"
         },
         {
+            "key": "csp_TingBook",
+            "name": "有声听书(SP)",
+            "type": 3,
+            "api": "csp_TingBook",
+            "quickSearch": 0,
+            "jar": "https://www.lnjubao.cn/minio-jbpt/upload/20260717/5829d919fb4c5697c5e882205771f2c9.jpg;md5;d4b90caf39f26ffe54006225c273e0da"
+        },
+        {
+            "key": "六月有声",
+            "name": "六月有声(SP)",
+            "type": 3,
+            "api": "csp_TingBook",
+            "quickSearch": 0,
+            "ext": "https://app.365ting.com",
+            "jar": "https://www.lnjubao.cn/minio-jbpt/upload/20260717/5829d919fb4c5697c5e882205771f2c9.jpg;md5;d4b90caf39f26ffe54006225c273e0da"
+        },
+        {
             "key": "csp_Living",
             "name": "游戏直播(SP)",
             "type": 3,
