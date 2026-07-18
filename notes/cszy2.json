@@ -2960,6 +2960,20 @@
             "jar": "https://www.lnjubao.cn/minio-jbpt/upload/20260717/5829d919fb4c5697c5e882205771f2c9.jpg;md5;d4b90caf39f26ffe54006225c273e0da"
         },
         {
+            "key": "csp_Xlys4",
+            "name": "修罗4(SP)",
+            "type": 3,
+            "api": "csp_Xlys",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260710.jpg;md5;03b5cc34c0ac0b72c36a7c9e31a8577e"
+        },
+        {
+            "key": "csp_Xlys5",
+            "name": "修罗5(SP)",
+            "type": 3,
+            "api": "csp_Xlys",
+            "jar": "https://file.icve.com.cn/file_doc/246/25/3D9067228C9E62839E438E9E6B6A5AF8.jpg;md5;3d9067228c9e62839e438e9e6b6a5af8"
+        },
+        {
             "key": "csp_FreeOk",
             "name": "Freeok(SP)",
             "type": 3,
@@ -2971,6 +2985,13 @@
             "name": "河马短剧(SP)",
             "type": 3,
             "api": "csp_HemaDJ",
+            "jar": "https://file.icve.com.cn/file_doc/246/25/3D9067228C9E62839E438E9E6B6A5AF8.jpg;md5;3d9067228c9e62839e438e9e6b6a5af8"
+        },
+        {
+            "key": "csp_HeMa",
+            "name": "荷马(SP)",
+            "type": 3,
+            "api": "csp_HeMa",
             "jar": "https://file.icve.com.cn/file_doc/246/25/3D9067228C9E62839E438E9E6B6A5AF8.jpg;md5;3d9067228c9e62839e438e9e6b6a5af8"
         },
         {
@@ -2990,13 +3011,6 @@
             "jar": "https://file.icve.com.cn/file_doc/246/25/3D9067228C9E62839E438E9E6B6A5AF8.jpg;md5;3d9067228c9e62839e438e9e6b6a5af8"
         },
         {
-            "key": "csp_HeMa",
-            "name": "荷马(SP)",
-            "type": 3,
-            "api": "csp_HeMa",
-            "jar": "https://file.icve.com.cn/file_doc/246/25/3D9067228C9E62839E438E9E6B6A5AF8.jpg;md5;3d9067228c9e62839e438e9e6b6a5af8"
-        },
-        {
             "key": "csp_Qiyou2",
             "name": "奇优2(SP)",
             "type": 3,
@@ -3013,6 +3027,14 @@
         {
             "key": "csp_TingBook",
             "name": "有声听书(SP)",
+            "type": 3,
+            "api": "csp_TingBook",
+            "quickSearch": 0,
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260710.jpg;md5;03b5cc34c0ac0b72c36a7c9e31a8577e"
+        },
+        {
+            "key": "csp_TingBook2",
+            "name": "有声听书2(SP)",
             "type": 3,
             "api": "csp_TingBook",
             "quickSearch": 0,
