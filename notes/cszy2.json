@@ -2035,7 +2035,7 @@
         },
         {
             "key": "csp_Qiyou",
-            "name": "奇优(SP)",
+            "name": "(SP)",
             "type": 3,
             "api": "csp_Qiyou",
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251225.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
@@ -2973,6 +2973,14 @@
             "type": 3,
             "api": "csp_HemaDJ",
             "jar": "https://file.icve.com.cn/file_doc/246/25/3D9067228C9E62839E438E9E6B6A5AF8.jpg;md5;3d9067228c9e62839e438e9e6b6a5af8"
+        },
+        {
+            "key": "马猴",
+            "name": "马猴(SP)",
+            "type": 3,
+            "api": "csp_AppDmh",
+            "ext": "https://45.150.167.18:8000",
+            "jar": "https://www.lnjubao.cn/minio-jbpt/upload/20260717/5829d919fb4c5697c5e882205771f2c9.jpg;md5;d4b90caf39f26ffe54006225c273e0da"
         },
         {
             "key": "csp_HeMa",
