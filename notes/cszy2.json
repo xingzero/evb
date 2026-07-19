@@ -2945,12 +2945,34 @@
             "api": "csp_HanjuK",
             "jar": "https://file.icve.com.cn/file_doc/246/25/3D9067228C9E62839E438E9E6B6A5AF8.jpg;md5;3d9067228c9e62839e438e9e6b6a5af8"
         },
-                {
+        {
             "key": "csp_HanjuK2",
             "name": "韩剧看2(SP)",
             "type": 3,
             "api": "csp_HanjuK",
             "jar": "https://qn.fqcdn.cn/666666666666666666666666/20260710173636681007-vip.jpg;md5;03b5cc34c0ac0b72c36a7c9e31a8577e"
+        },
+        {
+            "key": "csp_HanjuK3",
+            "name": "韩剧看3(SP)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://hanjuk.com/nf-show/{cateId}/page/{catePg}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+            },
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "456听书",
+            "name": "456听书(SP)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://www.m4560.com/list/{cateId}-{catePg}.html",
+                "分类": "言情$1#武侠$2#悬疑$3#历史$4#军事$5#评书$6#相声小品$7#百家讲坛$8#商业财经$9"
+            },
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_Xlys3",
