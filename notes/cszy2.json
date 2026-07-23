@@ -3026,7 +3026,7 @@
             "type": 3,
             "api": "csp_AppDmh",
             "ext": "https://45.150.167.18:8000",
-            "jar": "https://www.lnjubao.cn/minio-jbpt/upload/20260717/5829d919fb4c5697c5e882205771f2c9.jpg;md5;d4b90caf39f26ffe54006225c273e0da"
+            "jar": "https://nos.netease.com/youdata-netease/public-utilUpload-fwEszi8gtRRYNnhZNZYTPG.zip;md5;c14643abcd24f01a582bc987c948a16f"
         },
         {
             "key": "马猴2",
@@ -3035,6 +3035,13 @@
             "api": "csp_AppMH",
             "ext": "https://45.150.167.18:8000",
             "jar": "https://file.icve.com.cn/file_doc/246/25/3D9067228C9E62839E438E9E6B6A5AF8.jpg;md5;3d9067228c9e62839e438e9e6b6a5af8"
+        },
+        {
+            "key": "韩圈",
+            "name": "韩圈(SP)",
+            "type": 3,
+            "api": "csp_HXQ",
+            "jar": "https://nos.netease.com/youdata-netease/public-utilUpload-fwEszi8gtRRYNnhZNZYTPG.zip;md5;c14643abcd24f01a582bc987c948a16f"
         },
         {
             "key": "csp_Qiyou2",
