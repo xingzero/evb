@@ -3037,10 +3037,11 @@
             "jar": "https://file.icve.com.cn/file_doc/246/25/3D9067228C9E62839E438E9E6B6A5AF8.jpg;md5;3d9067228c9e62839e438e9e6b6a5af8"
         },
         {
-            "key": "韩圈",
-            "name": "韩圈(SP)",
+            "key": "韩小圈",
+            "name": "韩小圈(SP)",
             "type": 3,
             "api": "csp_HXQ",
+            "ext": "http://www.小不点.com/api/2026/fishhxq.php",
             "jar": "https://nos.netease.com/youdata-netease/public-utilUpload-fwEszi8gtRRYNnhZNZYTPG.zip;md5;c14643abcd24f01a582bc987c948a16f"
         },
         {
