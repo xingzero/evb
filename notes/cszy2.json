@@ -3045,6 +3045,86 @@
             "jar": "https://nos.netease.com/youdata-netease/public-utilUpload-fwEszi8gtRRYNnhZNZYTPG.zip;md5;c14643abcd24f01a582bc987c948a16f"
         },
         {
+            "key": "韩小圈2",
+            "name": "韩小圈2(SP)",
+            "type": 3,
+            "api": "csp_HanXiaoQuanPhp",
+            "jar": "https://zkaicc.huilan.com/aicc/api/aicc-file/miniofile/preViewPicture/aicc/1CqpaRCV_1784884059047.jpg;md5;db2c1c3ef8d2d5d3481303f21f80593c"
+        },
+        {
+            "key": "csp_KnVod",
+            "name": "柯南(SP)",
+            "type": 3,
+            "api": "csp_KnVod",
+            "jar": "https://zkaicc.huilan.com/aicc/api/aicc-file/miniofile/preViewPicture/aicc/1CqpaRCV_1784884059047.jpg;md5;db2c1c3ef8d2d5d3481303f21f80593c"
+        },
+        {
+            "key": "华谊",
+            "name": "华谊(SP)",
+            "type": 3,
+            "api": "csp_AppDrama",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "appName": "华谊",
+                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB",
+                "dataKey": "NDBYSZR1DMRRZ05NSUCWEJNIYWLBPT0=",
+                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+                "commonKey": "ed5fdsgucxumegqa",
+                "pkg": "com.muyue.tool",
+                "host": "",
+                "site": "https://vip.123pan.cn/1851089669/oss/az5.txt",
+                "version": "1.0.0.4",
+                "decrypt": "1"
+            },
+            "jar": "https://zkaicc.huilan.com/aicc/api/aicc-file/miniofile/preViewPicture/aicc/1CqpaRCV_1784884059047.jpg;md5;db2c1c3ef8d2d5d3481303f21f80593c"
+        },
+        {
+            "key": "苹果",
+            "name": "苹果(SP)",
+            "type": 3,
+            "api": "csp_AppDrama",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "appName": "小苹果",
+                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+                "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
+                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+                "commonKey": "ed5fdsgucxumegqa",
+                "pkg": "com.juechufsh.android.xpg1",
+                "host": "",
+                "site": "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt",
+                "version": "1.0.0.3",
+                "decrypt": "0"
+            },
+            "jar": "https://zkaicc.huilan.com/aicc/api/aicc-file/miniofile/preViewPicture/aicc/1CqpaRCV_1784884059047.jpg;md5;db2c1c3ef8d2d5d3481303f21f80593c"
+        },
+        {
+            "key": "薯条",
+            "name": "薯条(SP)",
+            "type": 3,
+            "api": "csp_AppDrama",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "appName": "薯条影视",
+                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+                "dataKey": "A1VACZJWDKRZY1P3MFV0DDRAZ3F3PT0=",
+                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+                "commonKey": "ed5fdsgucxumegqa",
+                "pkg": "com.st.standroid",
+                "host": "",
+                "site": "https://dyttandroid-1372779881.cos.ap-guangzhou.myqcloud.com/app_dyttandroid.txt",
+                "version": "5.0.0.1",
+                "decrypt": "0"
+            },
+            "jar": "https://zkaicc.huilan.com/aicc/api/aicc-file/miniofile/preViewPicture/aicc/1CqpaRCV_1784884059047.jpg;md5;db2c1c3ef8d2d5d3481303f21f80593c"
+        },
+        {
             "key": "csp_Qiyou2",
             "name": "奇优2(SP)",
             "type": 3,
