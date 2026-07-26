@@ -3125,6 +3125,30 @@
             "jar": "https://zkaicc.huilan.com/aicc/api/aicc-file/miniofile/preViewPicture/aicc/1CqpaRCV_1784884059047.jpg;md5;db2c1c3ef8d2d5d3481303f21f80593c"
         },
         {
+            "key": "片库",
+            "name": "💥片库💥",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/js8/片库.js",
+            "type": 3
+        },
+        {
+            "key": "枫叶4k",
+            "name": "💥枫叶4k💥",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/js8/枫叶4k(1).js",
+            "type": 3
+        },
+        {
+            "key": "观风",
+            "name": "💥观风💥",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/观风影视_2.py",
+            "type": 3
+        },
+        {
+            "key": "香蕉视频",
+            "name": "💥香蕉视频💥",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/香蕉视频.py",
+            "type": 3
+        },
+        {
             "key": "csp_Qiyou2",
             "name": "奇优2(SP)",
             "type": 3,
