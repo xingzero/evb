@@ -3149,6 +3149,12 @@
             "type": 3
         },
         {
+            "key": "樱花动漫3",
+            "name": "樱花动漫3",
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/樱花动漫.py",
+            "type": 3
+        },
+        {
             "key": "app3q",
             "name": "app3q",
             "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/refs/heads/main/yingshi/py9/app3q.py",
