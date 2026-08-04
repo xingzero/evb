@@ -3801,6 +3801,14 @@
             "ext": "http://app.hktvyb.cc"
         },
         {
+            "key": "TVB云播6",
+            "name": "TVB云播6(fox)",
+            "type": 3,
+            "changeable": 0,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/Appfox.py",
+            "ext": "http://app.tuxianimg.com"
+        },
+        {
             "key": "未来(fox)",
             "name": "未来(fox)",
             "type": 3,
