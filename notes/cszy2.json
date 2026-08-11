@@ -3004,7 +3004,7 @@
             "name": "Freeok(SP)",
             "type": 3,
             "api": "csp_FreeOk",
-            "jar": "https://file.icve.com.cn/file_doc/246/25/3D9067228C9E62839E438E9E6B6A5AF8.jpg;md5;3d9067228c9e62839e438e9e6b6a5af8"
+            "jar": "https://wxkb-res-1258476243.cos.ap-shanghai.myqcloud.com/web/img/8848100788856671/mPbH32yrcujod8XE5oJQSN_20260810094351#.png;md5;55277b00fefe6adfc3288a84f3197c24"
         },
         {
             "key": "csp_HemaDJ",
@@ -3019,6 +3019,19 @@
             "type": 3,
             "api": "csp_HeMa",
             "jar": "https://file.icve.com.cn/file_doc/246/25/3D9067228C9E62839E438E9E6B6A5AF8.jpg;md5;3d9067228c9e62839e438e9e6b6a5af8"
+        },
+        {
+            "key": "csp_SuSou",
+            "name": "苏搜(SP)",
+            "type": 3,
+            "api": "csp_SuSou",
+            "jar": "https://wxkb-res-1258476243.cos.ap-shanghai.myqcloud.com/web/img/8848100788856671/mPbH32yrcujod8XE5oJQSN_20260810094351#.png;md5;55277b00fefe6adfc3288a84f3197c24"
+        },{
+            "key": "csp_ZhiZhen",
+            "name": "指针(SP)",
+            "type": 3,
+            "api": "csp_ZhiZhen",
+            "jar": "https://wxkb-res-1258476243.cos.ap-shanghai.myqcloud.com/web/img/8848100788856671/mPbH32yrcujod8XE5oJQSN_20260810094351#.png;md5;55277b00fefe6adfc3288a84f3197c24"
         },
         {
             "key": "马猴",
@@ -3278,7 +3291,7 @@
             "api": "csp_Qfeng",
             "searchable": 0,
             "quickSearch": 0,
-            "jar": "https://file.icve.com.cn/file_doc/246/25/3D9067228C9E62839E438E9E6B6A5AF8.jpg;md5;3d9067228c9e62839e438e9e6b6a5af8"
+            "jar": "https://wxkb-res-1258476243.cos.ap-shanghai.myqcloud.com/web/img/8848100788856671/mPbH32yrcujod8XE5oJQSN_20260810094351#.png;md5;55277b00fefe6adfc3288a84f3197c24"
         },
         {
             "key": "csp_Kugou",
