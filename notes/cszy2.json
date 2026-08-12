@@ -3000,6 +3000,13 @@
             "jar": "https://file.icve.com.cn/file_doc/246/25/3D9067228C9E62839E438E9E6B6A5AF8.jpg;md5;3d9067228c9e62839e438e9e6b6a5af8"
         },
         {
+            "key": "csp_Xlys6",
+            "name": "修罗6(SP)",
+            "type": 3,
+            "api": "csp_Xlys",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260728.jpg;md5;739eb01b9d30692d10d0afa5c6668e24"
+        },
+        {
             "key": "csp_FreeOk",
             "name": "Freeok(SP)",
             "type": 3,
@@ -3025,7 +3032,7 @@
             "name": "苏搜(SP)",
             "type": 3,
             "api": "csp_SuSou",
-            "jar": "https://wxkb-res-1258476243.cos.ap-shanghai.myqcloud.com/web/img/8848100788856671/mPbH32yrcujod8XE5oJQSN_20260810094351#.png;md5;55277b00fefe6adfc3288a84f3197c24"
+            "jar": "https://s3plus.meituan.net/opapisdk/op_ticket_1_885190757_1786441652042_3gdAtt9a.zip;md5;72f76facb402366ab5f43d5dc6a45bf7"
         },{
             "key": "csp_ZhiZhen",
             "name": "指针(SP)",
