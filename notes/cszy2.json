@@ -1983,7 +1983,7 @@
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251225.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
         },
         {
-            "key": "csp_Xlys",
+            "key": "csp_",
             "name": "修罗(SP)",
             "type": 3,
             "api": "csp_Xlys",
@@ -3005,6 +3005,30 @@
             "type": 3,
             "api": "csp_Xlys",
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260728.jpg;md5;739eb01b9d30692d10d0afa5c6668e24"
+        },
+        {
+            "key": "csp_Xlys7",
+            "name": "修罗7(SP)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/cluntop/tvbox/main/py/xlys.py"
+        },
+        {
+            "key": "阳光",
+            "name": "阳光(SP)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/cluntop/tvbox/main/py/yangguang.py"
+        },
+        {
+            "key": "sszzyy",
+            "name": "sszzyy(SP)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/cluntop/tvbox/main/py/sszzyy.py"
+        },
+        {
+            "key": "ysttv",
+            "name": "ysttv(SP)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/cluntop/tvbox/main/py/ysttv.py"
         },
         {
             "key": "csp_FreeOk",
