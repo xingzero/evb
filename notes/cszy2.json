@@ -3012,12 +3012,19 @@
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/cluntop/tvbox/main/py/xlys.py"
         },
+                {
+            "key": "csp_Dyzd",
+            "name": "Dyzd(SP)",
+            "type": 3,
+            "api": "csp_Dyzd",
+            "jar": "https://s3plus.meituan.net/opapisdk/op_ticket_1_5677168484_1786692332313_Ea3QGT2Q.zip;md5;2698d595a4b0a782e4f3e1242e5e6511"
+        },
         {
             "key": "csp_KeKe",
             "name": "Keke(SP)",
             "type": 3,
             "api": "csp_KeKe",
-            "jar": "https://nos.netease.com/ysf/404777d4220a586007eb62f4cb0644a8.png;md5;33afef828e6005506fa473d5809be72f"
+            "jar": "https://s3plus.meituan.net/opapisdk/op_ticket_1_5677168484_1786692332313_Ea3QGT2Q.zip;md5;2698d595a4b0a782e4f3e1242e5e6511"
         },
         {
             "key": "阳光",
