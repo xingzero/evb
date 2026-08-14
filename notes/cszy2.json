@@ -1983,7 +1983,7 @@
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251225.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
         },
         {
-            "key": "csp_",
+            "key": "csp_Xlys",
             "name": "修罗(SP)",
             "type": 3,
             "api": "csp_Xlys",
@@ -3013,6 +3013,13 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/cluntop/tvbox/main/py/xlys.py"
         },
         {
+            "key": "csp_KeKe",
+            "name": "Keke(SP)",
+            "type": 3,
+            "api": "csp_KeKe",
+            "jar": "https://nos.netease.com/ysf/404777d4220a586007eb62f4cb0644a8.png;md5;33afef828e6005506fa473d5809be72f"
+        },
+        {
             "key": "阳光",
             "name": "阳光(SP)",
             "type": 3,
@@ -3056,8 +3063,9 @@
             "name": "苏搜(SP)",
             "type": 3,
             "api": "csp_SuSou",
-            "jar": "https://s3plus.meituan.net/opapisdk/op_ticket_1_885190757_1786441652042_3gdAtt9a.zip;md5;72f76facb402366ab5f43d5dc6a45bf7"
-        },{
+            "jar": "https://nos.netease.com/ysf/404777d4220a586007eb62f4cb0644a8.png;md5;33afef828e6005506fa473d5809be72f"
+        },
+        {
             "key": "csp_ZhiZhen",
             "name": "指针(SP)",
             "type": 3,
