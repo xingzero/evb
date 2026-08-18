@@ -401,7 +401,7 @@
             "name": "🤣KKKK┃动漫",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/xyqxbpq.jar",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/Easyox/main/jar/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -437,7 +437,7 @@
             "name": "鹊桥┃2K",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/xyqxbpq.jar",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/Easyox/main/jar/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -468,7 +468,7 @@
             "name": "七味┃2K",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/xyqxbpq.jar",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/Easyox/main/jar/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -499,7 +499,7 @@
             "name": "短剧网┃2K",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/xyqxbpq.jar",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/Easyox/main/jar/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -533,7 +533,7 @@
             "name": "枫叶┃2K",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/jar/xiaosa.jar",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/Easyox/main/jar/xiaosa.jar",
             "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "简介": "剧情介绍:+text cor3\">[*],&&</div>",
@@ -1966,6 +1966,12 @@
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/py/TVB云播.py",
             "ext": "http://www.viptvb06.com"
+        },
+        {
+            "key": "TVB云播4",
+            "name": "TVB云播4(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/main/yingshi/py8/TVB云播_2.py"
         },
         {
             "key": "csp_Jiaozi",
