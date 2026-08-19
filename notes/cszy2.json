@@ -2862,7 +2862,15 @@
             "type": 3,
             "api": "csp_AppQi",
             "ext": "https://test.cms.bidiys.com|5ae8ee4bb95ea0ce|okhttp/3.10.0 BDYS/109.0.0.8",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251220.png;md5;caa22b5d283ec2bdc63f65b9310ea232"
+            "jar": "https://nos.netease.com/ysf/8cb2db6ed5698cb01c3bff4e8b24c8ef.txt;md5;6ad7dc48e3d7b4b28bfede1a6cca7a6f"
+        },
+        {
+            "key": "怀桑",
+            "name": "怀桑(SP)",
+            "type": 3,
+            "api": "csp_AppQi",
+            "ext": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt|kj37zs29q22jk96t|V122",
+            "jar": "https://nos.netease.com/ysf/8cb2db6ed5698cb01c3bff4e8b24c8ef.txt;md5;6ad7dc48e3d7b4b28bfede1a6cca7a6f"
         },
         {
             "key": "csp_咖啡",
