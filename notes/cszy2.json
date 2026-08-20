@@ -2861,7 +2861,7 @@
             "name": "比迪2(SP)",
             "type": 3,
             "api": "csp_AppGet",
-            "ext": "https://test.cms.bidiys.com|5ae8ee4bb95ea0ce|okhttp/3.10.0 BDYS/109.0.0.8",
+            "ext": "https://test.cms.bidiys.com|5ae8ee4bb95ea0ce|V120|okhttp/3.10.0 BDYS/109.0.0.8",
             "jar": "https://nos.netease.com/ysf/8cb2db6ed5698cb01c3bff4e8b24c8ef.txt;md5;6ad7dc48e3d7b4b28bfede1a6cca7a6f"
         },
         {
@@ -2877,7 +2877,7 @@
             "name": "世界(SP)",
             "type": 3,
             "api": "csp_AppGet",
-            "ext": "https://appcms.4ksj.app|O3K6rYx75Q4xtiIE",
+            "ext": "https://appcms.4ksj.app|O3K6rYx75Q4xtiIE|V119",
             "jar": "https://nos.netease.com/ysf/8cb2db6ed5698cb01c3bff4e8b24c8ef.txt;md5;6ad7dc48e3d7b4b28bfede1a6cca7a6f"
         },
         {
