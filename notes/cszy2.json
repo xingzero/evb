@@ -2860,7 +2860,7 @@
             "key": "csp_比迪2",
             "name": "比迪2(SP)",
             "type": 3,
-            "api": "csp_AppQi",
+            "api": "csp_AppGet",
             "ext": "https://test.cms.bidiys.com|5ae8ee4bb95ea0ce|okhttp/3.10.0 BDYS/109.0.0.8",
             "jar": "https://nos.netease.com/ysf/8cb2db6ed5698cb01c3bff4e8b24c8ef.txt;md5;6ad7dc48e3d7b4b28bfede1a6cca7a6f"
         },
@@ -2868,8 +2868,36 @@
             "key": "怀桑",
             "name": "怀桑(SP)",
             "type": 3,
-            "api": "csp_AppQi",
+            "api": "csp_AppGet",
             "ext": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt|kj37zs29q22jk96t|V122",
+            "jar": "https://nos.netease.com/ysf/8cb2db6ed5698cb01c3bff4e8b24c8ef.txt;md5;6ad7dc48e3d7b4b28bfede1a6cca7a6f"
+        },
+        {
+            "key": "CaptchaOcr",
+            "name": "CaptchaOcr(SP)",
+            "type": 3,
+            "api": "csp_CaptchaOcr",
+            "jar": "https://nos.netease.com/ysf/8cb2db6ed5698cb01c3bff4e8b24c8ef.txt;md5;6ad7dc48e3d7b4b28bfede1a6cca7a6f"
+        },
+        {
+            "key": "短剧2",
+            "name": "短剧2(SP)",
+            "type": 3,
+            "api": "csp_DuanJu",
+            "jar": "https://nos.netease.com/ysf/8cb2db6ed5698cb01c3bff4e8b24c8ef.txt;md5;6ad7dc48e3d7b4b28bfede1a6cca7a6f"
+        },
+        {
+            "key": "csp_KanJuMe",
+            "name": "看剧(SP)",
+            "type": 3,
+            "api": "csp_KanJuMe",
+            "jar": "https://nos.netease.com/ysf/8cb2db6ed5698cb01c3bff4e8b24c8ef.txt;md5;6ad7dc48e3d7b4b28bfede1a6cca7a6f"
+        },
+        {
+            "key": "csp_ZGTVOnline",
+            "name": "ZGTV(SP)",
+            "type": 3,
+            "api": "csp_ZGTVOnline",
             "jar": "https://nos.netease.com/ysf/8cb2db6ed5698cb01c3bff4e8b24c8ef.txt;md5;6ad7dc48e3d7b4b28bfede1a6cca7a6f"
         },
         {
@@ -3090,7 +3118,7 @@
             "name": "苏搜(SP)",
             "type": 3,
             "api": "csp_SuSou",
-            "jar": "https://nos.netease.com/ysf/404777d4220a586007eb62f4cb0644a8.png;md5;33afef828e6005506fa473d5809be72f"
+            "jar": "https://nos.netease.com/ysf/8cb2db6ed5698cb01c3bff4e8b24c8ef.txt;md5;6ad7dc48e3d7b4b28bfede1a6cca7a6f"
         },
         {
             "key": "csp_ZhiZhen",
