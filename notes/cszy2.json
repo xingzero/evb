@@ -2854,7 +2854,7 @@
             "type": 3,
             "api": "csp_AppQi",
             "ext": "https://test.cms.bidiys.com|5ae8ee4bb95ea0ce|okhttp/3.10.0 BDYS/109.0.0.8",
-            "jar": "https://img2.gelonghui.com/library/26c48-e3487e20-44ba-4e37-8953-f4fbba99daed.png;md5;26c4814b6abd097a203e598030051ff2"
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ260727.png;md5;f7c90ebd0a6632f3347eeeb8d9bd555e"
         },
         {
             "key": "csp_比迪2",
@@ -2870,6 +2870,14 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt|kj37zs29q22jk96t|V122",
+            "jar": "https://nos.netease.com/ysf/8cb2db6ed5698cb01c3bff4e8b24c8ef.txt;md5;6ad7dc48e3d7b4b28bfede1a6cca7a6f"
+        },
+        {
+            "key": "世界",
+            "name": "世界(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://appcms.4ksj.app|O3K6rYx75Q4xtiIE",
             "jar": "https://nos.netease.com/ysf/8cb2db6ed5698cb01c3bff4e8b24c8ef.txt;md5;6ad7dc48e3d7b4b28bfede1a6cca7a6f"
         },
         {
