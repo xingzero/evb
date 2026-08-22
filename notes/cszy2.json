@@ -3076,7 +3076,42 @@
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/cluntop/tvbox/main/py/xlys.py"
         },
-                {
+        {
+            "key": "csp_Xlys8",
+            "name": "修罗8(SP)",
+            "type": 3,
+            "api": "csp_Xlys",
+            "jar": "https://s3plus.meituan.net/opapisdk/op_ticket_1_885190757_1787304841765_UQn8jTCo.txt;md5;9f6f95ce265523a9a6bd21e264cae1fe"
+        },
+        {
+            "key": "csp_KaFei",
+            "name": "KaFei(SP)",
+            "type": 3,
+            "api": "csp_KaFeiGuard",
+            "jar": "https://zl.wpscdn.cn/2026/08/19/space_img/3494f72d-11fa-4b7d-934a-3bb976851336.jpg;md5;1fb66ff185ea35252d2ae2a07d058ec1"
+        },
+        {
+            "key": "csp_Sir88",
+            "name": "Sir88(SP)",
+            "type": 3,
+            "api": "csp_Sir88Guard",
+            "jar": "https://zl.wpscdn.cn/2026/08/19/space_img/3494f72d-11fa-4b7d-934a-3bb976851336.jpg;md5;1fb66ff185ea35252d2ae2a07d058ec1"
+        },
+        {
+            "key": "csp_YueSj",
+            "name": "粤世界(SP)",
+            "type": 3,
+            "api": "csp_YueSjGuard",
+            "jar": "https://zl.wpscdn.cn/2026/08/19/space_img/3494f72d-11fa-4b7d-934a-3bb976851336.jpg;md5;1fb66ff185ea35252d2ae2a07d058ec1"
+        },
+        {
+            "key": "csp_ZbzGuard",
+            "name": "直播站(SP)",
+            "type": 3,
+            "api": "csp_ZbzGuard",
+            "jar": "https://zl.wpscdn.cn/2026/08/19/space_img/3494f72d-11fa-4b7d-934a-3bb976851336.jpg;md5;1fb66ff185ea35252d2ae2a07d058ec1"
+        },
+        {
             "key": "csp_Dyzd",
             "name": "Dyzd(SP)",
             "type": 3,
