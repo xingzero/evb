@@ -3087,7 +3087,21 @@
             "name": "修罗8(SP)",
             "type": 3,
             "api": "csp_Xlys",
-            "jar": "https://file.ljcdn.com/psd-sinan-file/prod/appeal_evidence/BDAAFD03DC414893BF8096757C0F5C90/HRspYO.jpg;md5;20c2251db91d73246a84cad241582ec9"
+            "jar": "https://zkaicc.huilan.com/aicc/api/aicc-file/miniofile/preViewPicture/aicc/LXzueNsP_1787888142243.png;md5;37cd379fa9cd2d4d8d9cdc0fc8ae86a7"
+        },
+        {
+            "key": "csp_HqVod",
+            "name": "HqVod(SP)",
+            "type": 3,
+            "api": "csp_HqVod",
+            "jar": "https://zkaicc.huilan.com/aicc/api/aicc-file/miniofile/preViewPicture/aicc/LXzueNsP_1787888142243.png;md5;37cd379fa9cd2d4d8d9cdc0fc8ae86a7"
+        },
+        {
+            "key": "csp_Qingmai",
+            "name": "Qingmai(SP)",
+            "type": 3,
+            "api": "csp_Qingmai",
+            "jar": "https://zkaicc.huilan.com/aicc/api/aicc-file/miniofile/preViewPicture/aicc/LXzueNsP_1787888142243.png;md5;37cd379fa9cd2d4d8d9cdc0fc8ae86a7"
         },
         {
             "key": "csp_KaFei",
