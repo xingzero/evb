@@ -1741,7 +1741,18 @@
             "type": 3,
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/skapp.py",
             "ext": {
-                "host": "https://sk.xiaoyaoys.top/skkkkkkk.txt",
+                "host": "https://sk.freeys.top/skkkkkkk.txt",
+                "key": "ygcnbcczduwydmrs",
+                "iv": "4672921073143708"
+            }
+        },
+        {
+            "key": "Free影视2(sk)",
+            "name": "Free影视2(sk)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/leilingzero/engd66_PyramidStore/main/plugin/app/skapp.py",
+            "ext": {
+                "host": "https://sk.freeys.top",
                 "key": "ygcnbcczduwydmrs",
                 "iv": "4672921073143708"
             }
