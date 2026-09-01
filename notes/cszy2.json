@@ -1985,6 +1985,36 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/main/yingshi/py8/TVB云播_2.py"
         },
         {
+            "key": "TVB云播5",
+            "name": "TVB云播5(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/main/yingshi/py9/TVB云播.py"
+        },
+        {
+            "key": "石榴",
+            "name": "石榴(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/main/yingshi/py9/石榴短剧.py"
+        },
+        {
+            "key": "华数",
+            "name": "华数(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/main/yingshi/py9/华数.py"
+        },
+        {
+            "key": "Ncat",
+            "name": "Ncat(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/main/yingshi/py9/Ncat.py"
+        },
+        {
+            "key": "Czsapp",
+            "name": "Czsapp(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/main/yingshi/py9/Czsapp.py"
+        },
+        {
             "key": "iptv345",
             "name": "iptv345(py)",
             "type": 3,
