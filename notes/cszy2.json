@@ -2796,7 +2796,15 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "https://www.cyfz.vip|e72cdfd629e8895d",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251225.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260902.png;md5;bd0990798869b7c5fb301fefc9f52330"
+        },
+        {
+            "key": "曼波(SP)",
+            "name": "曼波(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://app.omofun1.top|66dc309cbeeca454",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260902.png;md5;bd0990798869b7c5fb301fefc9f52330"
         },
         {
             "key": "元咲",
@@ -2927,14 +2935,6 @@
             "name": "快车",
             "type": 1,
             "api": "https://caiji.kuaichezy.org/api.php/provide/vod/"
-        },
-        {
-            "key": "曼波(SP)",
-            "name": "曼波(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "https://app.omofun1.top|66dc309cbeeca454",
-            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251225.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
         },
         {
             "key": "稀饭dm(SP)",
