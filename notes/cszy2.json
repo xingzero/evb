@@ -3418,6 +3418,15 @@
             "jar": "https://file.icve.com.cn/file_doc/246/25/3D9067228C9E62839E438E9E6B6A5AF8.jpg;md5;3d9067228c9e62839e438e9e6b6a5af8"
         },
         {
+            "key": "csp_HeMa2",
+            "name": "盒马(SP)",
+            "type": 3,
+            "api": "csp_HeMa",
+            "timeout": 12,
+            "genre": "shortdrama",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260902.png;md5;bd0990798869b7c5fb301fefc9f52330"
+        },
+        {
             "key": "csp_SuSou",
             "name": "苏搜(SP)",
             "type": 3,
