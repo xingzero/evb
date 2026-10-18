@@ -2991,6 +2991,14 @@
             "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260330.jpg;md5;59bcc1aa8c1ecf7d08a282ac63705ab3"
         },
         {
+            "key": "米饭3(SP)",
+            "name": "米饭3(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://getcf.mymifun.com|GETMIFUNGEIMIFUN",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/260330.jpg;md5;59bcc1aa8c1ecf7d08a282ac63705ab3"
+        },
+        {
             "key": "囧次元(SP)",
             "name": "囧次元(SP)",
             "type": 3,
