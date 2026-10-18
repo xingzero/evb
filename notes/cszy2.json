@@ -597,6 +597,12 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/Silent1566/OmniBox-Spider/main/动漫/稀饭动漫.js"
         },
         {
+            "key": "广东荔枝电视台",
+            "name": "广东荔枝电视台",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/wliqi495-create/jaychou123/main/yingshi/py9/广东荔枝电视台.py"
+        },
+        {
             "key": "稀饭动漫2",
             "name": "稀饭动漫2",
             "type": 3,
