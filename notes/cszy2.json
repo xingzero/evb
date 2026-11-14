@@ -1,5 +1,5 @@
 {
-    "spider": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/f260612.jpg;md5;c1bb8166a36306e250f791897717deb0",
+    "spider": "https://xiuxiu-pro-new.meitudata.com/posters/776af3c4b61098b3573b4973f867010c.jpg;md5;76e9565340e6d28c363b914ca2d506ed",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -1225,6 +1225,40 @@
             "name": "🐬如意影视｜",
             "type": 1,
             "api": "https://cj.rycjapi.com/api.php/provide/vod"
+        },
+        {
+            "key": "飞鱼",
+            "name": "飞鱼(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/jsjhshs/tvbox_collect/3d6139ab5b1703bc43de53694da4acd029cdde36/tianjitop/llllo4k/py/飞鱼.py"
+        },
+        {
+            "key": "高清点播4K",
+            "name": "高清点播4K(py)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/hy5528/tvbox/6a3795293579fd7a1451c80fee2cb8890847134e/py/高清点播4K.py"
+        },
+        {
+            "key": "金桔",
+            "name": "金桔(js)",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/jie20091116/cat/157107b5ae492ff0d2fee7c7a9491f3b6e357c4c/TVBOX/JS/金桔.js"
+        },
+        {
+            "key": "麦田app",
+            "name": "麦田app(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://fastgit.cc/https://raw.githubusercontent.com/franksun1211/TXT/2b8adad3596f67a2e2cf3610254a16843a2d5bcf/HTB/CFL/lib/麦田.json",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "葫芦",
+            "name": "葫芦(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://mobile-1251126973.cos.ap-guangzhou.myqcloud.com/maccos_config.txt|8R33VQSxzmCaHpEX|V122|okhttp/3.10.0",
+            "jar": "https://fastgit.cc/https://raw.githubusercontent.com/xingzero/eva/main/notes/jar/PandaQ251225.png;md5;eadaaee8e25f5d590dc4f40488207d0d"
         },
         {
             "key": "白鸽",
