@@ -633,6 +633,12 @@
             "api": "https://fastgit.cc/https://raw.githubusercontent.com/wliqi495-create/jaychouqq/main/yingshi/py8/木兮.py"
         },
         {
+            "key": "dreamfly",
+            "name": "dreamfly",
+            "type": 3,
+            "api": "https://fastgit.cc/https://raw.githubusercontent.com/dfvips/mddparser/0ad0b8159cb08bc960da3057bee33feb63dc68f9/js/dreamfly.js"
+        },
+        {
             "key": "4KVM2",
             "name": "4KVM2",
             "type": 3,
